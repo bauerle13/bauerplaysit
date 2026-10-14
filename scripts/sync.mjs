@@ -103,33 +103,46 @@ async function fetchTab(tab) {
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const playlistIdFrom = (url = '') => url.match(/[?&]list=([\w-]+)/)?.[1] || (/^PL[\w-]+$/.test(url) ? url : '');
-const modIdFrom = (url = '') => url.match(/mods\/(\d+)/)?.[1] || (/^\d+$/.test(url) ? url : '');
+const modIdFrom = (url = '') => url.match(/\/mods\/(\d+)/)?.[1] || (/^\d+$/.test(url) ? url : '');
 
 // ---------- Paradox Mods ----------
 
-// Mod lists per series come from the Mods tab today.
-// Live playset sync plugs in here once the logged-in playset endpoint is confirmed.
-async function fetchPlaysetModIds(/* playset */) {
-  return null;
+const PDX = 'https://api.paradox-interactive.com/mods';
+const playsetIdFrom = (url = '') => url.match(/playsets\/[\w-]+\/(\d+)/)?.[1] || '';
+
+async function pdxJson(url) {
+  const res = await fetch(url, { headers: UA });
+  const body = await res.json().catch(() => ({}));
+  if (!res.ok || body.result !== 'OK') {
+    throw new Error(body.errorCode === 'not-authorized'
+      ? 'playset is private, set it to Public on Paradox Mods'
+      : body.errorMessage || `HTTP ${res.status}`);
+  }
+  return body;
 }
 
-const firstOf = (obj, keys) => keys.map((k) => obj?.[k]).find((v) => v !== undefined && v !== null && v !== '');
+const toMod = (d) => ({
+  id: String(d.modId),
+  url: `https://mods.paradoxplaza.com/mods/${d.modId}/Windows`,
+  name: d.displayName || `Mod ${d.modId}`,
+  author: d.author || '',
+  summary: d.shortDescription || '',
+  version: d.userModVersion || '',
+  updated: d.latestModUpdate || d.updated || '',
+  thumb: d.displayImagePath || '',
+  tags: d.tags || []
+});
 
-async function fetchModDetail(modId) {
-  const res = await fetch(`https://api.paradox-interactive.com/mods?modId=${modId}&os=Windows`, { headers: UA });
-  const body = await res.json().catch(() => ({}));
-  if (!res.ok || body.result !== 'OK') throw new Error(body.errorMessage || `HTTP ${res.status}`);
-  const d = body.modDetail || {};
-  const thumb = firstOf(d, ['thumbnailPath', 'thumbnailUrl', 'thumbnail', 'thumbnailUri']);
-  return {
-    name: firstOf(d, ['displayName', 'name', 'title']) || `Mod ${modId}`,
-    author: firstOf(d, ['author', 'authorName', 'creator']) || '',
-    summary: firstOf(d, ['shortDescription', 'summary']) || '',
-    version: firstOf(d, ['userModVersion', 'version', 'modVersion']) || '',
-    updated: firstOf(d, ['latestUpdate', 'updatedAt', 'lastUpdated', 'updated']) || '',
-    thumb: typeof thumb === 'string' ? thumb : '',
-    _keys: Object.keys(d)
-  };
+async function fetchPlayset(id) {
+  const set = await pdxJson(`${PDX}/sets/${id}`);
+  const version = set.latestPublicVersion || 1;
+  const list = await pdxJson(`${PDX}/sets/${id}/mods?limit=10000&page=1&version=${version}`);
+  return (list.mods || []).filter((m) => m.state === 'published' && m.enabled !== false).map(toMod);
+}
+
+async function fetchMod(id) {
+  const body = await pdxJson(`${PDX}?modId=${id}&os=Windows`);
+  return toMod({ ...body.modDetail, modId: id });
 }
 
 // ---------- Discord ----------
@@ -181,10 +194,17 @@ try {
 
 if (seriesRows && modRows) {
   const prevSeries = Object.fromEntries((previous.series || []).map((s) => [s.slug, s]));
-  const prevMods = Object.fromEntries((previous.mods || []).map((m) => [m.id, m]));
+  const prevMods = Object.fromEntries((previous.mods || []).map(({ series: _s, notes: _n, ...m }) => [m.id, m]));
+  const mods = new Map();
   const series = [];
-  const modSeries = new Map();
-  const modNotes = new Map();
+
+  const addMod = (mod, s, note) => {
+    const m = mods.get(mod.id) || { ...mod, series: [], notes: {} };
+    if (!m.series.includes(s.slug)) m.series.push(s.slug);
+    if (note) m.notes[s.slug] = note;
+    mods.set(mod.id, m);
+    s.modIds.push(mod.id);
+  };
 
   for (const row of seriesRows) {
     const name = row['series'];
@@ -196,45 +216,47 @@ if (seriesRows && modRows) {
       description: row['description'] || '',
       playlistId: playlistIdFrom(row['playlist url']),
       playlistUrl: '',
-      videos: prevSeries[slug(name)]?.videos || []
+      videos: prevSeries[slug(name)]?.videos || [],
+      modIds: []
     };
     if (s.playlistId) {
       s.playlistUrl = `https://www.youtube.com/playlist?list=${s.playlistId}`;
       try { s.videos = (await fetchPlaylist(s.playlistId)).videos; }
       catch (e) { warn(`Playlist "${name}": ${e.message}`); }
     }
-    const live = row['playset'] ? await fetchPlaysetModIds(row['playset']).catch((e) => { warn(`Playset "${name}": ${e.message}`); return null; }) : null;
-    const ids = live || modRows.filter((m) => slug(m['series'] || '') === s.slug).map((m) => {
-      const id = modIdFrom(m['mod url']);
-      if (id && m['note']) modNotes.set(`${s.slug}:${id}`, m['note']);
-      return id;
-    }).filter(Boolean);
-    s.modIds = [...new Set(ids)];
-    for (const id of s.modIds) {
-      if (!modSeries.has(id)) modSeries.set(id, []);
-      modSeries.get(id).push(s.slug);
+
+    for (const row of modRows.filter((r) => slug(r['series'] || '') === s.slug)) {
+      const link = row['mod url'] || '';
+      const setId = playsetIdFrom(link);
+      const modId = setId ? '' : modIdFrom(link);
+      try {
+        if (setId) {
+          const list = await fetchPlayset(setId);
+          console.log(`Playset for "${name}": ${list.length} mods`);
+          list.forEach((mod) => addMod(mod, s));
+        } else if (modId) {
+          addMod(await fetchMod(modId), s, row['note']);
+          await new Promise((r) => setTimeout(r, 250));
+        } else if (link) {
+          warn(`"${name}": not a Paradox Mods mod or playset link: ${link}`);
+        }
+      } catch (e) {
+        warn(`"${name}" ${setId ? 'playset' : 'mod'}: ${e.message} (kept last good list)`);
+        const keep = setId ? prevSeries[s.slug]?.modIds || [] : [modId];
+        keep.forEach((id) => prevMods[id] && addMod(prevMods[id], s));
+      }
     }
+    s.modIds = [...new Set(s.modIds)];
     series.push(s);
   }
 
-  const mods = [];
-  let loggedKeys = false;
-  for (const [id, slugs] of modSeries) {
-    const base = { id, url: `https://mods.paradoxplaza.com/mods/${id}/Windows`, series: slugs,
-      notes: Object.fromEntries(slugs.map((sl) => [sl, modNotes.get(`${sl}:${id}`)]).filter(([, n]) => n)) };
-    try {
-      const { _keys, ...detail } = await fetchModDetail(id);
-      if (!loggedKeys) { console.log('Paradox modDetail fields:', _keys.join(', ')); loggedKeys = true; }
-      mods.push({ ...base, ...detail });
-    } catch (e) {
-      warn(`Mod ${id}: ${e.message}`);
-      mods.push({ ...(prevMods[id] || { name: `Mod ${id}`, author: '' }), ...base });
-    }
-    await new Promise((r) => setTimeout(r, 250));
+  const known = new Set(series.map((s) => s.slug));
+  for (const row of modRows) {
+    if (row['series'] && !known.has(slug(row['series']))) warn(`Mods tab: "${row['series']}" doesn't match any name on the Series tab`);
   }
-  mods.sort((a, b) => a.name.localeCompare(b.name));
+
   out.series = series;
-  out.mods = mods;
+  out.mods = [...mods.values()].sort((a, b) => a.name.localeCompare(b.name));
 }
 
 out.warnings = warnings;
