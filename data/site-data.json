@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:11:19.287Z",
+  "generatedAt": "2026-10-14T21:38:10.098Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3567,
+      "views": 3571,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 2986,
+      "views": 3007,
       "isShort": false
     },
     {
@@ -93,7 +93,7 @@
       "published": "2026-04-24T17:01:03+00:00",
       "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
       "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
-      "views": 2697,
+      "views": 2698,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6511,
+          "views": 6513,
           "isShort": false
         },
         {
@@ -168,7 +168,7 @@
           "published": "2026-01-20T11:30:31+00:00",
           "url": "https://www.youtube.com/watch?v=MQogFK3bWHs",
           "thumb": "https://i.ytimg.com/vi/MQogFK3bWHs/hqdefault.jpg",
-          "views": 2223,
+          "views": 2224,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 2986,
+          "views": 3007,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3567,
+          "views": 3571,
           "isShort": false
         }
       ],
@@ -6152,9 +6152,9 @@
       "url": "https://mods.paradoxplaza.com/mods/150529/Windows",
       "name": "Logistics — Warehouse & Distribution Pack (NA)",
       "author": "cubanbread3",
-      "summary": "38 North-American logistics warehouses and mega distribution centers (78-610 m), dock-high and grade-level, working truck docks, recolorable, full LODs. Needs 3 prop mods.",
-      "version": "4.2",
-      "updated": "2026-10-06T16:28:54.000Z",
+      "summary": "38 North-American logistics warehouses and mega distribution centers (78-610 m), dock-high and grade-level, working truck docks, recolorable, full LODs. Needs 1 companion mod (installs 3 prop mods).",
+      "version": "5.0",
+      "updated": "2026-10-14T18:04:36.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/bbaeaa4f-a79a-4769-8c99-e5264cc28bcd/content/cover.jpg",
       "tags": [
         "Building",
@@ -11873,7 +11873,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 6
+    "online": 7
   },
   "patreonUrl": "",
   "warnings": []
