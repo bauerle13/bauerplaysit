@@ -1,1 +1,408 @@
-{"channel":{"url":"https://www.youtube.com/@BauerPlaysIt"},"videos":[],"shorts":[],"series":[],"mods":[],"discord":{"invite":"https://discord.gg/yuy7VwXuGu"},"patreonUrl":""}
+{
+  "generatedAt": "2026-10-14T13:53:48.453Z",
+  "channel": {
+    "id": "UCH7D_HFfO4HscLAqmBNbgDg",
+    "title": "BauerPlaysIt",
+    "url": "https://www.youtube.com/@BauerPlaysIt"
+  },
+  "videos": [
+    {
+      "id": "NS19-jCvk2Q",
+      "title": "I terraformed all of THIS map and it's changed everything | Cities Skylines 2",
+      "published": "2026-10-02T16:55:02+00:00",
+      "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
+      "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
+      "views": 3567,
+      "isShort": false
+    },
+    {
+      "id": "ieAkfs6jRdI",
+      "title": "Starting a NEW Realistic City | Cities Skylines 2",
+      "published": "2026-09-26T15:00:13+00:00",
+      "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
+      "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
+      "views": 2986,
+      "isShort": false
+    },
+    {
+      "id": "LxHd33M5Uds",
+      "title": "This Island Just Got Its First Large Shopping Area | Cities Skylines 2",
+      "published": "2026-07-22T14:49:03+00:00",
+      "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
+      "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
+      "views": 845,
+      "isShort": false
+    },
+    {
+      "id": "rLHndeSpsd8",
+      "title": "Turning an Empty Island into a Money Pit (Transportation HUB) | Cities Skylines 2",
+      "published": "2026-06-27T12:00:16+00:00",
+      "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
+      "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
+      "views": 1309,
+      "isShort": false
+    },
+    {
+      "id": "hFh4VtVJ8gg",
+      "title": "How I Created this Beautiful Vineyard on an Island | Cities Skylines 2",
+      "published": "2026-06-15T12:52:13+00:00",
+      "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
+      "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
+      "views": 2605,
+      "isShort": false
+    },
+    {
+      "id": "9urDh77WXQU",
+      "title": "Tripling This Islands Population | Cities Skylines 2",
+      "published": "2026-06-04T10:43:37+00:00",
+      "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
+      "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
+      "views": 2120,
+      "isShort": false
+    },
+    {
+      "id": "u6eb3wWjbBc",
+      "title": "I Created This Vacation Island Out of NOTHING | Cities Skylines 2",
+      "published": "2026-05-24T12:24:57+00:00",
+      "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
+      "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
+      "views": 1052,
+      "isShort": false
+    },
+    {
+      "id": "jy3wAV8K6Xg",
+      "title": "Building a Residential Town on My Vacation Island | Cities Skylines 2",
+      "published": "2026-05-16T18:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
+      "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
+      "views": 2350,
+      "isShort": false
+    },
+    {
+      "id": "mHI5kyu2K18",
+      "title": "Starting a NEW City on an Island | Cities Skylines 2",
+      "published": "2026-05-02T16:01:17+00:00",
+      "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
+      "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
+      "views": 4088,
+      "isShort": false
+    },
+    {
+      "id": "cKP_F2UvMBA",
+      "title": "Seabury University Gets a Massive College Football Stadium | Cities Skylines 2: Seabury (Ep21)",
+      "published": "2026-04-24T17:01:03+00:00",
+      "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
+      "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
+      "views": 2697,
+      "isShort": false
+    },
+    {
+      "id": "0Rx63IuM_8w",
+      "title": "Solving My Cities Education Crisis with a Major University | Cities Skylines 2: Seabury (Ep20)",
+      "published": "2026-04-16T16:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=0Rx63IuM_8w",
+      "thumb": "https://i.ytimg.com/vi/0Rx63IuM_8w/hqdefault.jpg",
+      "views": 817,
+      "isShort": false
+    },
+    {
+      "id": "BA4CcpBo0JA",
+      "title": "We Needed Tourism, So Let's Create a Riverwalk! | Cities Skylines 2: Seabury (Ep19)",
+      "published": "2026-04-04T17:04:41+00:00",
+      "url": "https://www.youtube.com/watch?v=BA4CcpBo0JA",
+      "thumb": "https://i.ytimg.com/vi/BA4CcpBo0JA/hqdefault.jpg",
+      "views": 1532,
+      "isShort": false
+    },
+    {
+      "id": "Fo_VG6CBAGc",
+      "title": "I Used the City Stations Expansion to Overhaul Transportation | Cities Skylines 2: Seabury (Ep18)",
+      "published": "2026-03-28T16:00:00+00:00",
+      "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
+      "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
+      "views": 2081,
+      "isShort": false
+    }
+  ],
+  "shorts": [
+    {
+      "id": "kk3Ac0agcvo",
+      "title": "🚨 ARSONIST ON THE LOOSE in Seabury! | Cities: Skylines 2",
+      "published": "2026-03-27T20:00:00+00:00",
+      "url": "https://www.youtube.com/shorts/kk3Ac0agcvo",
+      "thumb": "https://i.ytimg.com/vi/kk3Ac0agcvo/hqdefault.jpg",
+      "views": 148,
+      "isShort": true
+    },
+    {
+      "id": "FpgdKuktOCI",
+      "title": "Transforming Seabury: From ASHES to Infrastructure! 🏗️",
+      "published": "2026-03-27T16:00:00+00:00",
+      "url": "https://www.youtube.com/shorts/FpgdKuktOCI",
+      "thumb": "https://i.ytimg.com/vi/FpgdKuktOCI/hqdefault.jpg",
+      "views": 1538,
+      "isShort": true
+    }
+  ],
+  "series": [
+    {
+      "slug": "seabury",
+      "name": "Seabury",
+      "status": "Complete",
+      "description": "",
+      "playlistId": "PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
+      "videos": [
+        {
+          "id": "DwI54bb9s6A",
+          "title": "Starting a Realistic Coastal Town in Cities Skylines 2 (Ep1)",
+          "published": "2026-01-16T13:40:13+00:00",
+          "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
+          "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
+          "views": 6510,
+          "isShort": false
+        },
+        {
+          "id": "MQogFK3bWHs",
+          "title": "Port Overhaul & Downtown Beginnings | Cities Skylines 2: Seabury (Ep2)",
+          "published": "2026-01-20T11:30:31+00:00",
+          "url": "https://www.youtube.com/watch?v=MQogFK3bWHs",
+          "thumb": "https://i.ytimg.com/vi/MQogFK3bWHs/hqdefault.jpg",
+          "views": 2223,
+          "isShort": false
+        },
+        {
+          "id": "aoQX8Y1Ahuw",
+          "title": "Fixing Unemployment with a Massive Industrial Expansion | Cities Skylines 2: Seabury (Ep3)",
+          "published": "2026-01-23T12:05:50+00:00",
+          "url": "https://www.youtube.com/watch?v=aoQX8Y1Ahuw",
+          "thumb": "https://i.ytimg.com/vi/aoQX8Y1Ahuw/hqdefault.jpg",
+          "views": 999,
+          "isShort": false
+        },
+        {
+          "id": "zXR2lEYAKDc",
+          "title": "High-Speed Highways & Suburban Living | Cities Skylines 2: Seabury (Ep4)",
+          "published": "2026-01-25T23:27:48+00:00",
+          "url": "https://www.youtube.com/watch?v=zXR2lEYAKDc",
+          "thumb": "https://i.ytimg.com/vi/zXR2lEYAKDc/hqdefault.jpg",
+          "views": 1516,
+          "isShort": false
+        },
+        {
+          "id": "1uLZ4_QX70M",
+          "title": "The Interchange That Finally Linked My City | Cities Skylines 2: Seabury (Ep5)",
+          "published": "2026-01-29T12:14:30+00:00",
+          "url": "https://www.youtube.com/watch?v=1uLZ4_QX70M",
+          "thumb": "https://i.ytimg.com/vi/1uLZ4_QX70M/hqdefault.jpg",
+          "views": 3234,
+          "isShort": false
+        },
+        {
+          "id": "6kzIs_trhEE",
+          "title": "Building a Massive Rail Hub & Industrial Zone | Cities Skylines 2: Seabury (Ep6)",
+          "published": "2026-02-03T13:00:17+00:00",
+          "url": "https://www.youtube.com/watch?v=6kzIs_trhEE",
+          "thumb": "https://i.ytimg.com/vi/6kzIs_trhEE/hqdefault.jpg",
+          "views": 1253,
+          "isShort": false
+        },
+        {
+          "id": "SbrICh86h1A",
+          "title": "Fixing My TERRIBLE Traffic with a Massive 3-Line Transit Hub | Cities Skylines 2: Seabury (Ep7)",
+          "published": "2026-02-07T17:00:41+00:00",
+          "url": "https://www.youtube.com/watch?v=SbrICh86h1A",
+          "thumb": "https://i.ytimg.com/vi/SbrICh86h1A/hqdefault.jpg",
+          "views": 1726,
+          "isShort": false
+        },
+        {
+          "id": "4s6OYCCL3V0",
+          "title": "Cutting a Highway Through My Oldest Neighborhood | Cities Skylines 2: Seabury (Ep8)",
+          "published": "2026-02-13T15:23:38+00:00",
+          "url": "https://www.youtube.com/watch?v=4s6OYCCL3V0",
+          "thumb": "https://i.ytimg.com/vi/4s6OYCCL3V0/hqdefault.jpg",
+          "views": 3064,
+          "isShort": false
+        },
+        {
+          "id": "uLesYgSBQWU",
+          "title": "Starting a Small Ore Mining Community | Cities Skylines 2: Seabury (Ep9)",
+          "published": "2026-02-19T17:01:31+00:00",
+          "url": "https://www.youtube.com/watch?v=uLesYgSBQWU",
+          "thumb": "https://i.ytimg.com/vi/uLesYgSBQWU/hqdefault.jpg",
+          "views": 1019,
+          "isShort": false
+        },
+        {
+          "id": "pMO0Q1opmks",
+          "title": "Creating a Small Rural Community in the Outskirt's of Town | Cities Skylines 2: Seabury (Ep10)",
+          "published": "2026-02-22T17:01:12+00:00",
+          "url": "https://www.youtube.com/watch?v=pMO0Q1opmks",
+          "thumb": "https://i.ytimg.com/vi/pMO0Q1opmks/hqdefault.jpg",
+          "views": 683,
+          "isShort": false
+        },
+        {
+          "id": "ji7u6y0cP3Q",
+          "title": "Connecting Hawthorne to the World with a Highway Exit of Its Own | Cities Skylines 2: Seabury (Ep11)",
+          "published": "2026-02-26T17:01:23+00:00",
+          "url": "https://www.youtube.com/watch?v=ji7u6y0cP3Q",
+          "thumb": "https://i.ytimg.com/vi/ji7u6y0cP3Q/hqdefault.jpg",
+          "views": 2065,
+          "isShort": false
+        },
+        {
+          "id": "sT_JyYbGiJU",
+          "title": "Overhauling the Cities Infrastructure and Transit System | Cities Skylines 2: Seabury (Ep12)",
+          "published": "2026-03-01T17:01:22+00:00",
+          "url": "https://www.youtube.com/watch?v=sT_JyYbGiJU",
+          "thumb": "https://i.ytimg.com/vi/sT_JyYbGiJU/hqdefault.jpg",
+          "views": 1557,
+          "isShort": false
+        },
+        {
+          "id": "ezbzzCGaoBk",
+          "title": "I Sent a Bridge and Highway Through the CENTER of Seabury | Cities Skylines 2: Seabury (Ep13)",
+          "published": "2026-03-05T17:01:06+00:00",
+          "url": "https://www.youtube.com/watch?v=ezbzzCGaoBk",
+          "thumb": "https://i.ytimg.com/vi/ezbzzCGaoBk/hqdefault.jpg",
+          "views": 2275,
+          "isShort": false
+        },
+        {
+          "id": "evZM433P7YA",
+          "title": "Building Core Infrastructure for Downtown Seabury | Cities Skylines 2: Seabury (Ep14)",
+          "published": "2026-03-08T16:00:58+00:00",
+          "url": "https://www.youtube.com/watch?v=evZM433P7YA",
+          "thumb": "https://i.ytimg.com/vi/evZM433P7YA/hqdefault.jpg",
+          "views": 1249,
+          "isShort": false
+        },
+        {
+          "id": "xyAnW30H7r4",
+          "title": "Rising Skyscrapers: Seabury Hits Metropolis! | Cities Skylines 2: Seabury (Ep15)",
+          "published": "2026-03-12T16:01:34+00:00",
+          "url": "https://www.youtube.com/watch?v=xyAnW30H7r4",
+          "thumb": "https://i.ytimg.com/vi/xyAnW30H7r4/hqdefault.jpg",
+          "views": 1824,
+          "isShort": false
+        }
+      ],
+      "modIds": []
+    },
+    {
+      "slug": "saint-laurens-island",
+      "name": "Saint Laurens Island",
+      "status": "Active",
+      "description": "",
+      "playlistId": "PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
+      "videos": [
+        {
+          "id": "mHI5kyu2K18",
+          "title": "Starting a NEW City on an Island | Cities Skylines 2",
+          "published": "2026-05-02T16:01:17+00:00",
+          "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
+          "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
+          "views": 4088,
+          "isShort": false
+        },
+        {
+          "id": "jy3wAV8K6Xg",
+          "title": "Building a Residential Town on My Vacation Island | Cities Skylines 2",
+          "published": "2026-05-16T18:00:36+00:00",
+          "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
+          "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
+          "views": 2350,
+          "isShort": false
+        },
+        {
+          "id": "u6eb3wWjbBc",
+          "title": "I Created This Vacation Island Out of NOTHING | Cities Skylines 2",
+          "published": "2026-05-24T12:24:57+00:00",
+          "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
+          "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
+          "views": 1052,
+          "isShort": false
+        },
+        {
+          "id": "9urDh77WXQU",
+          "title": "Tripling This Islands Population | Cities Skylines 2",
+          "published": "2026-06-04T10:43:37+00:00",
+          "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
+          "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
+          "views": 2120,
+          "isShort": false
+        },
+        {
+          "id": "hFh4VtVJ8gg",
+          "title": "How I Created this Beautiful Vineyard on an Island | Cities Skylines 2",
+          "published": "2026-06-15T12:52:13+00:00",
+          "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
+          "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
+          "views": 2605,
+          "isShort": false
+        },
+        {
+          "id": "rLHndeSpsd8",
+          "title": "Turning an Empty Island into a Money Pit (Transportation HUB) | Cities Skylines 2",
+          "published": "2026-06-27T12:00:16+00:00",
+          "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
+          "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
+          "views": 1309,
+          "isShort": false
+        },
+        {
+          "id": "LxHd33M5Uds",
+          "title": "This Island Just Got Its First Large Shopping Area | Cities Skylines 2",
+          "published": "2026-07-22T14:49:03+00:00",
+          "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
+          "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
+          "views": 845,
+          "isShort": false
+        }
+      ],
+      "modIds": []
+    },
+    {
+      "slug": "oakhaven",
+      "name": "Oakhaven",
+      "status": "Active",
+      "description": "",
+      "playlistId": "PLMvwpovHlhwM",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLMvwpovHlhwM",
+      "videos": [
+        {
+          "id": "ieAkfs6jRdI",
+          "title": "Starting a NEW Realistic City | Cities Skylines 2",
+          "published": "2026-09-26T15:00:13+00:00",
+          "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
+          "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
+          "views": 2986,
+          "isShort": false
+        },
+        {
+          "id": "NS19-jCvk2Q",
+          "title": "I terraformed all of THIS map and it's changed everything | Cities Skylines 2",
+          "published": "2026-10-02T16:55:02+00:00",
+          "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
+          "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
+          "views": 3567,
+          "isShort": false
+        }
+      ],
+      "modIds": []
+    }
+  ],
+  "mods": [],
+  "discord": {
+    "invite": "https://discord.gg/yuy7VwXuGu",
+    "name": "BauerPlaysIt",
+    "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
+    "members": 37,
+    "online": 6
+  },
+  "patreonUrl": "",
+  "warnings": []
+}
