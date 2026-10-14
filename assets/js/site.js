@@ -36,6 +36,39 @@
       </a>`;
   };
 
+  const MOD_TYPES = [
+    { key: 'code', label: 'Code mods', short: 'Code' },
+    { key: 'asset', label: 'Assets', short: 'Asset' },
+    { key: 'map', label: 'Maps & saves', short: 'Map' }
+  ];
+
+  const modType = (m) => {
+    const tags = m.tags || [];
+    if (tags.includes('Code Mod')) return 'code';
+    if (tags.includes('Map') || tags.includes('Savegame')) return 'map';
+    return 'asset';
+  };
+
+  const modRow = (m, nameOf, current) => {
+    const note = current !== 'all' ? m.notes?.[current] : Object.values(m.notes || {})[0];
+    const version = (m.version || '').replace(/^v/i, '');
+    const short = MOD_TYPES.find((t) => t.key === m.type)?.short || '';
+    return `
+      <li>
+        <a class="mod-row" href="${esc(m.url)}" target="_blank" rel="noopener">
+          <span class="mod-thumb">${m.thumb ? `<img src="${esc(m.thumb)}" alt="" loading="lazy">` : `<span class="mod-initial">${esc(((m.name || '').match(/[a-z0-9]/i) || ['?'])[0].toUpperCase())}</span>`}</span>
+          <span class="mod-main">
+            <span class="mod-name">${esc(m.name)}</span>
+            <span class="video-sub">${m.author ? `by ${esc(m.author)}` : ''}${version ? ` · v${esc(version)}` : ''}</span>
+            ${note ? `<span class="mod-note">${esc(note)}</span>` : ''}
+          </span>
+          <span class="type-badge type-${m.type}">${short}</span>
+          <span class="tag-row mod-series">${m.series.map((sl) => `<span class="tag">${esc(nameOf[sl] || sl)}</span>`).join('')}</span>
+          <span class="mod-updated">${fmtDate(m.updated)}</span>
+        </a>
+      </li>`;
+  };
+
   const renderers = {
     home(data) {
       const vids = data.videos || [];
@@ -76,46 +109,72 @@
 
     mods(data) {
       const series = data.series || [];
-      const mods = data.mods || [];
+      const mods = (data.mods || []).map((m) => ({ ...m, type: modType(m) }));
       const params = new URLSearchParams(location.search);
-      let current = series.some((s) => s.slug === params.get('series')) ? params.get('series') : 'all';
+      const state = {
+        series: series.some((s) => s.slug === params.get('series')) ? params.get('series') : 'all',
+        type: MOD_TYPES.some((t) => t.key === params.get('type')) ? params.get('type') : 'all',
+        sort: params.get('sort') === 'updated' ? 'updated' : 'name'
+      };
       const chips = $('[data-chips]');
+      const typeChips = $('[data-type-chips]');
       const search = $('[data-search]');
-      const grid = $('[data-mods]');
+      const sortSel = $('[data-sort]');
+      const list = $('[data-mods]');
       const count = $('[data-count]');
       const nameOf = Object.fromEntries(series.map((s) => [s.slug, s.name]));
+      sortSel.value = state.sort;
 
       chips.innerHTML = [{ slug: 'all', name: 'All series' }, ...series].map((s) =>
         `<button type="button" class="chip" data-slug="${esc(s.slug)}">${esc(s.name)}</button>`).join('');
 
+      const inSeries = (m) => state.series === 'all' || m.series.includes(state.series);
+
+      const saveUrl = () => {
+        const url = new URL(location.href);
+        for (const [k, v, d] of [['series', state.series, 'all'], ['type', state.type, 'all'], ['sort', state.sort, 'name']]) {
+          if (v === d) url.searchParams.delete(k); else url.searchParams.set(k, v);
+        }
+        history.replaceState(null, '', url);
+      };
+
       const draw = () => {
+        const base = mods.filter(inSeries);
+        typeChips.innerHTML = [{ key: 'all', label: 'All types' }, ...MOD_TYPES].map((t) => {
+          const n = t.key === 'all' ? base.length : base.filter((m) => m.type === t.key).length;
+          return n || t.key === 'all' ? `<button type="button" class="chip" data-type="${t.key}" aria-pressed="${t.key === state.type}">${t.label}<span class="chip-count">${n}</span></button>` : '';
+        }).join('');
+        chips.querySelectorAll('.chip').forEach((c) => c.setAttribute('aria-pressed', String(c.dataset.slug === state.series)));
+
         const q = search.value.trim().toLowerCase();
-        const shown = mods.filter((m) => (current === 'all' || m.series.includes(current)) &&
+        const shown = base.filter((m) => (state.type === 'all' || m.type === state.type) &&
           (!q || `${m.name} ${m.author}`.toLowerCase().includes(q)));
-        chips.querySelectorAll('.chip').forEach((c) => c.setAttribute('aria-pressed', String(c.dataset.slug === current)));
+        shown.sort(state.sort === 'updated'
+          ? (a, b) => (b.updated || '').localeCompare(a.updated || '')
+          : (a, b) => a.name.localeCompare(b.name));
+
         count.textContent = mods.length ? `${shown.length} of ${mods.length} mods` : '';
-        grid.innerHTML = shown.map((m) => {
-          const note = current !== 'all' ? m.notes?.[current] : Object.values(m.notes || {})[0];
-          return `
-          <a class="mod-card" href="${esc(m.url)}" target="_blank" rel="noopener">
-            <span class="mod-thumb">${m.thumb ? `<img src="${esc(m.thumb)}" alt="" loading="lazy">` : `<span class="mod-initial">${esc((m.name || '?')[0])}</span>`}</span>
-            <span class="mod-body">
-              <span class="mod-name">${esc(m.name)}</span>
-              ${m.author ? `<span class="video-sub">by ${esc(m.author)}</span>` : ''}
-              ${note ? `<span class="mod-note">${esc(note)}</span>` : ''}
-              <span class="tag-row">${m.series.map((sl) => `<span class="tag">${esc(nameOf[sl] || sl)}</span>`).join('')}</span>
-            </span>
-          </a>`;
-        }).join('') || empty(mods.length ? 'No mods match that search.' : 'The mod list will appear once the Google Sheet is connected.');
+        list.innerHTML = shown.map((m) => modRow(m, nameOf, state.series)).join('') ||
+          `<li>${empty(mods.length ? 'No mods match those filters.' : 'The mod list will appear after the next sync.')}</li>`;
       };
 
       chips.addEventListener('click', (e) => {
         const b = e.target.closest('.chip');
         if (!b) return;
-        current = b.dataset.slug;
-        const url = new URL(location.href);
-        if (current === 'all') url.searchParams.delete('series'); else url.searchParams.set('series', current);
-        history.replaceState(null, '', url);
+        state.series = b.dataset.slug;
+        saveUrl();
+        draw();
+      });
+      typeChips.addEventListener('click', (e) => {
+        const b = e.target.closest('.chip');
+        if (!b) return;
+        state.type = b.dataset.type;
+        saveUrl();
+        draw();
+      });
+      sortSel.addEventListener('change', () => {
+        state.sort = sortSel.value;
+        saveUrl();
         draw();
       });
       search.addEventListener('input', draw);

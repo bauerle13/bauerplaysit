@@ -15,15 +15,30 @@
   </section>
   <section class="section section-tight">
     <div class="wrap">
-      <div class="toolbar">
+      <div class="filter-bar">
         <div class="chips" role="group" aria-label="Filter by series" data-chips></div>
-        <label class="search">
-          <span class="visually-hidden">Search mods</span>
-          <input type="search" placeholder="Search mods or authors" data-search>
-        </label>
+        <div class="toolbar">
+          <div class="chips" role="group" aria-label="Filter by type" data-type-chips></div>
+          <div class="toolbar-right">
+            <label class="search">
+              <span class="visually-hidden">Search mods</span>
+              <input type="search" placeholder="Search mods or authors" data-search>
+            </label>
+            <label class="sort">
+              <span class="visually-hidden">Sort</span>
+              <select data-sort>
+                <option value="name">A to Z</option>
+                <option value="updated">Recently updated</option>
+              </select>
+            </label>
+          </div>
+        </div>
       </div>
       <p class="result-count" data-count aria-live="polite"></p>
-      <div class="mod-grid" data-mods></div>
+      <div class="mod-list-head" aria-hidden="true">
+        <span></span><span>Mod</span><span>Type</span><span>Series</span><span>Updated</span>
+      </div>
+      <ul class="mod-list" data-mods></ul>
     </div>
   </section>
 </main>
