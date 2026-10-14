@@ -1,0 +1,32 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>{% include head.html title="Mods" description="Every Paradox Mods mod used in BauerPlaysIt's Cities: Skylines II series, updated automatically." %}</head>
+<body data-page="mods">
+{% include header.html active="mods" %}
+<main id="main">
+  <section class="page-head">
+    <div class="wrap">
+      <p class="eyebrow">Paradox Mods</p>
+      <h1>Mods list</h1>
+      <p class="lede">Everything I'm running, grouped by series. The list refreshes on its own, so it always matches the latest episode.</p>
+    </div>
+  </section>
+  <section class="section section-tight">
+    <div class="wrap">
+      <div class="toolbar">
+        <div class="chips" role="group" aria-label="Filter by series" data-chips></div>
+        <label class="search">
+          <span class="visually-hidden">Search mods</span>
+          <input type="search" placeholder="Search mods or authors" data-search>
+        </label>
+      </div>
+      <p class="result-count" data-count aria-live="polite"></p>
+      <div class="mod-grid" data-mods></div>
+    </div>
+  </section>
+</main>
+{% include footer.html %}
+</body>
+</html>

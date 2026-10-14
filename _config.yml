@@ -1,0 +1,9 @@
+title: BauerPlaysIt
+description: Cities: Skylines II builds, series and the mods behind them.
+url: https://bauerplaysit.com
+exclude:
+  - README.md
+  - scripts
+  - config
+  - sheet-template
+  - node_modules

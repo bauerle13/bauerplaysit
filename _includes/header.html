@@ -1,0 +1,17 @@
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/" aria-label="BauerPlaysIt home">
+      <img src="/assets/img/logo.svg" alt="" width="28" height="32">
+      <span>Bauer<b>PlaysIt</b></span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav" class="site-nav">
+      <a href="/series" {% if include.active == "series" %}aria-current="page"{% endif %}>Series</a>
+      <a href="/mods" {% if include.active == "mods" %}aria-current="page"{% endif %}>Mods</a>
+      <a href="/community" {% if include.active == "community" %}aria-current="page"{% endif %}>Community</a>
+      <a href="/support" {% if include.active == "support" %}aria-current="page"{% endif %}>Support</a>
+      <a class="btn btn-sm btn-yt" href="https://www.youtube.com/@BauerPlaysIt?sub_confirmation=1" target="_blank" rel="noopener">Subscribe</a>
+    </nav>
+  </div>
+</header>

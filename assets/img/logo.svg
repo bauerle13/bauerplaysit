@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="600 390 1000 1150" role="img" aria-label="BauerPlaysIt">
+  <defs>
+    <linearGradient id="bpi-grad" x1="614" y1="1525" x2="1100" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B044FF"/>
+      <stop offset="1" stop-color="#3ACFFF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bpi-grad)" fill-rule="evenodd" d="M614 405 L1585 965 L614 1525 Z M808 742 L808 1190 L1196 965 Z"/>
+</svg>

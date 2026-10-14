@@ -1,0 +1,66 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>{% include head.html %}</head>
+<body data-page="home">
+{% include header.html active="home" %}
+<main id="main">
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Cities: Skylines II</p>
+        <h1>Building cities<br><span class="grad-text">one road at a time.</span></h1>
+        <p class="lede">Full city builds, start to skyline, with every mod listed so you can play along.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="https://www.youtube.com/@BauerPlaysIt?sub_confirmation=1" target="_blank" rel="noopener">Watch on YouTube</a>
+          <a class="btn btn-ghost" href="https://discord.gg/yuy7VwXuGu" target="_blank" rel="noopener">Join the Discord</a>
+        </div>
+        <dl class="stat-row" data-stats hidden>
+          <div><dt>Series</dt><dd data-stat="series">–</dd></div>
+          <div><dt>Mods tracked</dt><dd data-stat="mods">–</dd></div>
+          <div><dt>Discord members</dt><dd data-stat="members">–</dd></div>
+        </dl>
+      </div>
+      <div class="hero-feature" data-latest>
+        <div class="video-card skeleton"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Latest uploads</h2>
+        <a class="link-arrow" href="https://www.youtube.com/@BauerPlaysIt/videos" target="_blank" rel="noopener">All videos</a>
+      </div>
+      <div class="video-grid" data-recent></div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Current builds</h2>
+        <a class="link-arrow" href="/series">All series</a>
+      </div>
+      <div class="series-strip" data-series-strip></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="discord-band" data-discord>
+        <div>
+          <p class="eyebrow">Community</p>
+          <h2>Hang out on the Discord</h2>
+          <p>Suggest builds, share your own cities, and find out when the next episode drops.</p>
+        </div>
+        <a class="btn btn-discord" href="https://discord.gg/yuy7VwXuGu" target="_blank" rel="noopener">Join the server</a>
+      </div>
+    </div>
+  </section>
+</main>
+{% include footer.html %}
+</body>
+</html>
