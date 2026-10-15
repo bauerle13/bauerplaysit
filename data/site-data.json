@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:22:41.597Z",
+  "generatedAt": "2026-10-15T16:56:34.550Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -21,7 +21,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3016,
+      "views": 3022,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6514,
+          "views": 6515,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3016,
+          "views": 3022,
           "isShort": false
         },
         {
@@ -11335,7 +11335,7 @@
       "author": "kaiserderklaus",
       "summary": "Draw US-style shared lane markings on individual road lanes or directly on the road center.",
       "version": "1.1.2",
-      "updated": "2026-09-30T11:35:49.000Z",
+      "updated": "2026-10-15T15:56:50.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/63b80d0a-b420-413b-969b-c7ee74b4e5ad/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11873,7 +11873,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 3
+    "online": 6
   },
   "patreonUrl": "",
   "warnings": []
