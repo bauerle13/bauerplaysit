@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:17:38.405Z",
+  "generatedAt": "2026-10-16T16:34:50.901Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3577,
+      "views": 3579,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3036,
+      "views": 3039,
       "isShort": false
     },
     {
@@ -66,7 +66,7 @@
       "published": "2026-05-24T12:24:57+00:00",
       "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
       "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-      "views": 1052,
+      "views": 1053,
       "isShort": false
     },
     {
@@ -75,7 +75,7 @@
       "published": "2026-05-16T18:00:36+00:00",
       "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
       "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-      "views": 2350,
+      "views": 2351,
       "isShort": false
     },
     {
@@ -84,7 +84,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4094,
+      "views": 4097,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6518,
+          "views": 6519,
           "isShort": false
         },
         {
@@ -258,7 +258,7 @@
           "published": "2026-03-01T17:01:22+00:00",
           "url": "https://www.youtube.com/watch?v=sT_JyYbGiJU",
           "thumb": "https://i.ytimg.com/vi/sT_JyYbGiJU/hqdefault.jpg",
-          "views": 1558,
+          "views": 1559,
           "isShort": false
         },
         {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4093,
+          "views": 4097,
           "isShort": false
         },
         {
@@ -518,7 +518,7 @@
           "published": "2026-05-16T18:00:36+00:00",
           "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
           "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-          "views": 2350,
+          "views": 2351,
           "isShort": false
         },
         {
@@ -527,7 +527,7 @@
           "published": "2026-05-24T12:24:57+00:00",
           "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
           "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-          "views": 1052,
+          "views": 1053,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3037,
+          "views": 3039,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3577,
+          "views": 3579,
           "isShort": false
         },
         {
@@ -10907,7 +10907,7 @@
       "author": "crispyzeltron",
       "summary": "44 growable Toronto designs in 4 new zones: Victorian rows, modern towns, main-street shops and big converted houses, with corner pieces, deep-lot additions and levels 1-5.",
       "version": "2",
-      "updated": "2026-10-07T15:44:15.000Z",
+      "updated": "2026-10-16T13:38:59.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1a1f46de-d54e-459d-abf7-62f340f9f6d4/content/cover.jpg",
       "tags": [
         "Building",
