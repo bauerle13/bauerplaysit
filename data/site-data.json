@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:19:55.103Z",
+  "generatedAt": "2026-10-16T04:26:18.276Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -11873,8 +11873,13 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 7
+    "online": 6
   },
   "patreonUrl": "",
-  "warnings": []
+  "warnings": [
+    "YouTube channel: 404 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
+    "Playlist \"Seabury\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
+    "Playlist \"Saint Laurens Island\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
+    "Playlist \"Oakhaven\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
+  ]
 }
