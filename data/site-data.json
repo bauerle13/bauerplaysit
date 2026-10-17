@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:29:32.500Z",
+  "generatedAt": "2026-10-17T20:33:16.544Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 4,
+      "views": 48,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3582,
+      "views": 3583,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3062,
+      "views": 3063,
       "isShort": false
     },
     {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3062,
+          "views": 3065,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3582,
+          "views": 3583,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 4,
+          "views": 48,
           "isShort": false
         }
       ],
@@ -11344,7 +11344,7 @@
       "author": "kaiserderklaus",
       "summary": "Create realistic US-style shared turn lanes with customizable road markings, turn arrows and asphalt overlays.",
       "version": "1.1.3",
-      "updated": "2026-10-17T14:46:46.000Z",
+      "updated": "2026-10-17T18:15:22.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/63b80d0a-b420-413b-969b-c7ee74b4e5ad/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11882,7 +11882,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 6
+    "online": 10
   },
   "patreonUrl": "",
   "warnings": []
