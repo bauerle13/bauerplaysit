@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:58:55.729Z",
+  "generatedAt": "2026-10-18T15:49:14.039Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 176,
+      "views": 362,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3588,
+      "views": 3589,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3070,
+      "views": 3075,
       "isShort": false
     },
     {
@@ -102,7 +102,7 @@
       "published": "2026-04-24T17:01:03+00:00",
       "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
       "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
-      "views": 2702,
+      "views": 2703,
       "isShort": false
     },
     {
@@ -111,7 +111,7 @@
       "published": "2026-04-16T16:00:04+00:00",
       "url": "https://www.youtube.com/watch?v=0Rx63IuM_8w",
       "thumb": "https://i.ytimg.com/vi/0Rx63IuM_8w/hqdefault.jpg",
-      "views": 818,
+      "views": 819,
       "isShort": false
     },
     {
@@ -120,7 +120,7 @@
       "published": "2026-04-04T17:04:41+00:00",
       "url": "https://www.youtube.com/watch?v=BA4CcpBo0JA",
       "thumb": "https://i.ytimg.com/vi/BA4CcpBo0JA/hqdefault.jpg",
-      "views": 1532,
+      "views": 1533,
       "isShort": false
     },
     {
@@ -129,7 +129,7 @@
       "published": "2026-03-28T16:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
       "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
-      "views": 2084,
+      "views": 2088,
       "isShort": false
     }
   ],
@@ -276,7 +276,7 @@
           "published": "2026-03-08T16:00:58+00:00",
           "url": "https://www.youtube.com/watch?v=evZM433P7YA",
           "thumb": "https://i.ytimg.com/vi/evZM433P7YA/hqdefault.jpg",
-          "views": 1250,
+          "views": 1251,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3070,
+          "views": 3075,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3588,
+          "views": 3589,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 176,
+          "views": 362,
           "isShort": false
         }
       ],
@@ -9404,23 +9404,22 @@
     {
       "id": "137904",
       "url": "https://mods.paradoxplaza.com/mods/137904/Windows",
-      "name": "S-Bahn Rhein-Ruhr BR422 Set",
+      "name": "S-Bahn Rhein-Ruhr: BR422",
       "author": "UnMaestro",
       "summary": "This Set delivers the DB Baureihe 422 for the S-Bahn Rhein-Ruhr to your City",
-      "version": "1.3",
-      "updated": "2026-10-01T18:04:08.000Z",
+      "version": "2.0",
+      "updated": "2026-10-18T15:39:34.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/7afb263e-20d9-46b4-90ed-c6f76d89da59/content/cover.jpg",
       "tags": [
         "Vehicle",
         "Prop",
-        "European",
         "Prefab",
         "UILandscaping",
         "UIProps",
         "UIPropsCommercial",
         "Train",
-        "PublicTransportTrain",
-        "Theme"
+        "PublicTransport",
+        "PublicTransportTrain"
       ],
       "series": [
         "saint-laurens-island"
@@ -11882,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 4
+    "online": 5
   },
   "patreonUrl": "",
   "warnings": []
