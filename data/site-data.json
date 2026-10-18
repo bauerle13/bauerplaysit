@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:49:14.039Z",
+  "generatedAt": "2026-10-18T20:37:09.782Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 362,
+      "views": 533,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3075,
+      "views": 3076,
       "isShort": false
     },
     {
@@ -48,7 +48,7 @@
       "published": "2026-06-27T12:00:16+00:00",
       "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
       "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-      "views": 1312,
+      "views": 1313,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6529,
+          "views": 6530,
           "isShort": false
         },
         {
@@ -186,7 +186,7 @@
           "published": "2026-01-25T23:27:48+00:00",
           "url": "https://www.youtube.com/watch?v=zXR2lEYAKDc",
           "thumb": "https://i.ytimg.com/vi/zXR2lEYAKDc/hqdefault.jpg",
-          "views": 1521,
+          "views": 1522,
           "isShort": false
         },
         {
@@ -231,7 +231,7 @@
           "published": "2026-02-19T17:01:31+00:00",
           "url": "https://www.youtube.com/watch?v=uLesYgSBQWU",
           "thumb": "https://i.ytimg.com/vi/uLesYgSBQWU/hqdefault.jpg",
-          "views": 1023,
+          "views": 1025,
           "isShort": false
         },
         {
@@ -554,7 +554,7 @@
           "published": "2026-06-27T12:00:16+00:00",
           "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
           "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-          "views": 1312,
+          "views": 1313,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3075,
+          "views": 3076,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 362,
+          "views": 533,
           "isShort": false
         }
       ],
@@ -2510,8 +2510,8 @@
       "name": "Asset Icon Library",
       "author": "TDW",
       "summary": "Populate your game's assets with thousands of icons.",
-      "version": "4.1",
-      "updated": "2026-06-22T12:11:25.000Z",
+      "version": "4.1.1",
+      "updated": "2026-10-18T20:03:17.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/6dadd334-90bf-4627-9f4f-7f08e594aa23/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -8907,8 +8907,8 @@
       "name": "Road Builder [BETA]",
       "author": "TDW",
       "summary": "Create endless road combinations on the fly while you’re playing the game! With a slick and easy-to-use interface, you’ll be able to create the exact road that you need on the spot.",
-      "version": "0.7.0",
-      "updated": "2026-06-22T12:10:57.000Z",
+      "version": "0.8.0",
+      "updated": "2026-10-18T19:22:34.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/3b4f4a76-024d-42f6-9b68-5b20ba57b04d/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -9408,7 +9408,7 @@
       "author": "UnMaestro",
       "summary": "This Set delivers the DB Baureihe 422 for the S-Bahn Rhein-Ruhr to your City",
       "version": "2.0",
-      "updated": "2026-10-18T15:39:34.000Z",
+      "updated": "2026-10-18T16:23:56.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/7afb263e-20d9-46b4-90ed-c6f76d89da59/content/cover.jpg",
       "tags": [
         "Vehicle",
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 5
+    "online": 7
   },
   "patreonUrl": "",
   "warnings": []
