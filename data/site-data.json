@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:05:05.206Z",
+  "generatedAt": "2026-10-19T22:18:54.279Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 751,
+      "views": 883,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3593,
+      "views": 3597,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3081,
+      "views": 3084,
       "isShort": false
     },
     {
@@ -66,7 +66,7 @@
       "published": "2026-06-04T10:43:37+00:00",
       "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
       "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
-      "views": 2122,
+      "views": 2124,
       "isShort": false
     },
     {
@@ -93,7 +93,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4098,
+      "views": 4100,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6532,
+          "views": 6535,
           "isShort": false
         },
         {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4098,
+          "views": 4100,
           "isShort": false
         },
         {
@@ -536,7 +536,7 @@
           "published": "2026-06-04T10:43:37+00:00",
           "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
           "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
-          "views": 2122,
+          "views": 2124,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3081,
+          "views": 3084,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3596,
+          "views": 3597,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 751,
+          "views": 883,
           "isShort": false
         }
       ],
@@ -7753,8 +7753,8 @@
       "name": "Network Tools [Early Access]",
       "author": "LucaDevDesign",
       "summary": "Reshape and generate network nodes and segments with precision.",
-      "version": "1.5.8",
-      "updated": "2026-06-22T15:24:08.000Z",
+      "version": "1.6.0",
+      "updated": "2026-10-19T17:18:31.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/798de8c5-0aaf-4d45-8b5a-a7791573dc9b/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 3
+    "online": 9
   },
   "patreonUrl": "",
   "warnings": []
