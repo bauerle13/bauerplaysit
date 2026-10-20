@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:44:09.447Z",
+  "generatedAt": "2026-10-20T11:30:31.523Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 883,
+      "views": 945,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3597,
+      "views": 3599,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3084,
+      "views": 3087,
       "isShort": false
     },
     {
@@ -93,7 +93,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4100,
+      "views": 4102,
       "isShort": false
     },
     {
@@ -129,7 +129,7 @@
       "published": "2026-03-28T16:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
       "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
-      "views": 2088,
+      "views": 2089,
       "isShort": false
     }
   ],
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6535,
+          "views": 6536,
           "isShort": false
         },
         {
@@ -267,7 +267,7 @@
           "published": "2026-03-05T17:01:06+00:00",
           "url": "https://www.youtube.com/watch?v=ezbzzCGaoBk",
           "thumb": "https://i.ytimg.com/vi/ezbzzCGaoBk/hqdefault.jpg",
-          "views": 2280,
+          "views": 2281,
           "isShort": false
         },
         {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4100,
+          "views": 4102,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3084,
+          "views": 3087,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3597,
+          "views": 3599,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 883,
+          "views": 945,
           "isShort": false
         }
       ],
@@ -11881,13 +11881,8 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 6
+    "online": 5
   },
   "patreonUrl": "",
-  "warnings": [
-    "YouTube channel: 404 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
-    "Playlist \"Seabury\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
-    "Playlist \"Saint Laurens Island\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
-    "Playlist \"Oakhaven\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
-  ]
+  "warnings": []
 }
