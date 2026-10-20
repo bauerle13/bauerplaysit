@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:59:18.515Z",
+  "generatedAt": "2026-10-20T21:34:25.306Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1011,
+      "views": 1056,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3599,
+      "views": 3600,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3087,
+      "views": 3089,
       "isShort": false
     },
     {
@@ -102,7 +102,7 @@
       "published": "2026-04-24T17:01:03+00:00",
       "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
       "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
-      "views": 2704,
+      "views": 2705,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6536,
+          "views": 6538,
           "isShort": false
         },
         {
@@ -258,7 +258,7 @@
           "published": "2026-03-01T17:01:22+00:00",
           "url": "https://www.youtube.com/watch?v=sT_JyYbGiJU",
           "thumb": "https://i.ytimg.com/vi/sT_JyYbGiJU/hqdefault.jpg",
-          "views": 1571,
+          "views": 1572,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3087,
+          "views": 3091,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1011,
+          "views": 1056,
           "isShort": false
         }
       ],
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 10
+    "online": 7
   },
   "patreonUrl": "",
   "warnings": []
