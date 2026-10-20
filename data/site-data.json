@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:30:31.523Z",
+  "generatedAt": "2026-10-20T16:59:18.515Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 945,
+      "views": 1011,
       "isShort": false
     },
     {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3599,
+          "views": 3600,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 945,
+          "views": 1011,
           "isShort": false
         }
       ],
@@ -8562,9 +8562,9 @@
       "url": "https://mods.paradoxplaza.com/mods/134562/Windows",
       "name": "Prop Set",
       "author": "vladalexsh",
-      "summary": "Prop objects for assets",
-      "version": "5.2",
-      "updated": "2026-07-16T23:44:47.000Z",
+      "summary": "Prop objects for assets and decoration",
+      "version": "5.3",
+      "updated": "2026-10-20T12:41:27.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/5d7d20cb-e331-4c5f-8053-19bb0748574e/content/cover.jpg",
       "tags": [
         "Prop",
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 5
+    "online": 10
   },
   "patreonUrl": "",
   "warnings": []
