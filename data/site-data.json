@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:42:44.411Z",
+  "generatedAt": "2026-10-21T17:07:57.184Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1173,
+      "views": 1227,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3096,
+      "views": 3097,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-07-22T14:49:03+00:00",
       "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
       "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-      "views": 851,
+      "views": 852,
       "isShort": false
     },
     {
@@ -93,7 +93,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4111,
+      "views": 4112,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6539,
+          "views": 6540,
           "isShort": false
         },
         {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4111,
+          "views": 4112,
           "isShort": false
         },
         {
@@ -563,7 +563,7 @@
           "published": "2026-07-22T14:49:03+00:00",
           "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
           "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-          "views": 851,
+          "views": 852,
           "isShort": false
         }
       ],
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3096,
+          "views": 3097,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3605,
+          "views": 3606,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1180,
+          "views": 1270,
           "isShort": false
         }
       ],
@@ -8564,7 +8564,7 @@
       "author": "Valex.",
       "summary": "Prop objects for assets and decoration",
       "version": "5.3",
-      "updated": "2026-10-20T12:41:27.000Z",
+      "updated": "2026-10-21T13:52:57.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/5d7d20cb-e331-4c5f-8053-19bb0748574e/content/cover.jpg",
       "tags": [
         "Prop",
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 3
+    "online": 5
   },
   "patreonUrl": "",
   "warnings": []
