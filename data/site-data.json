@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:45:53.013Z",
+  "generatedAt": "2026-10-22T17:06:52.194Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1413,
+      "views": 1417,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3103,
+      "views": 3104,
       "isShort": false
     },
     {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3103,
+          "views": 3104,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1413,
+          "views": 1417,
           "isShort": false
         }
       ],
@@ -6163,7 +6163,7 @@
       "author": "cubanbread3",
       "summary": "38 North-American logistics warehouses and mega distribution centers (78-610 m), dock-high and grade-level, working truck docks, recolorable, full LODs. Needs 1 companion mod (installs 3 prop mods).",
       "version": "5.0",
-      "updated": "2026-10-14T18:04:36.000Z",
+      "updated": "2026-10-22T17:04:52.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/bbaeaa4f-a79a-4769-8c99-e5264cc28bcd/content/cover.jpg",
       "tags": [
         "Building",
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 6
+    "online": 4
   },
   "patreonUrl": "",
   "warnings": []
