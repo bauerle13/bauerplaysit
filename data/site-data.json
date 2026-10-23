@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:32:59.933Z",
+  "generatedAt": "2026-10-23T17:02:47.442Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1435,
+      "views": 1437,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-07-22T14:49:03+00:00",
       "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
       "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-      "views": 854,
+      "views": 855,
       "isShort": false
     },
     {
@@ -84,7 +84,7 @@
       "published": "2026-05-16T18:00:36+00:00",
       "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
       "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-      "views": 2362,
+      "views": 2363,
       "isShort": false
     },
     {
@@ -102,7 +102,7 @@
       "published": "2026-04-24T17:01:03+00:00",
       "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
       "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
-      "views": 2707,
+      "views": 2708,
       "isShort": false
     },
     {
@@ -159,7 +159,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6546,
+          "views": 6547,
           "isShort": false
         },
         {
@@ -518,7 +518,7 @@
           "published": "2026-05-16T18:00:36+00:00",
           "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
           "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-          "views": 2362,
+          "views": 2363,
           "isShort": false
         },
         {
@@ -563,7 +563,7 @@
           "published": "2026-07-22T14:49:03+00:00",
           "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
           "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-          "views": 854,
+          "views": 855,
           "isShort": false
         }
       ],
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1435,
+          "views": 1440,
           "isShort": false
         }
       ],
@@ -7017,7 +7017,7 @@
       "author": "StarQ",
       "summary": "Additional Runway Sizes for Modular Service Blocks",
       "version": "1.0.0",
-      "updated": "2025-10-06T11:31:59.000Z",
+      "updated": "2026-10-23T12:52:56.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/361df53f-91d1-4bad-8b25-7860611e10d1/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 5
+    "online": 7
   },
   "patreonUrl": "",
   "warnings": []
