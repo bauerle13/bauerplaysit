@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:52:45.993Z",
+  "generatedAt": "2026-10-24T15:53:14.269Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1451,
+      "views": 1457,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3123,
+      "views": 3125,
       "isShort": false
     },
     {
@@ -84,7 +84,7 @@
       "published": "2026-05-16T18:00:36+00:00",
       "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
       "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-      "views": 2364,
+      "views": 2365,
       "isShort": false
     },
     {
@@ -93,7 +93,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4118,
+      "views": 4122,
       "isShort": false
     },
     {
@@ -120,7 +120,7 @@
       "published": "2026-04-04T17:04:41+00:00",
       "url": "https://www.youtube.com/watch?v=BA4CcpBo0JA",
       "thumb": "https://i.ytimg.com/vi/BA4CcpBo0JA/hqdefault.jpg",
-      "views": 1541,
+      "views": 1543,
       "isShort": false
     },
     {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4118,
+          "views": 4122,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3123,
+          "views": 3125,
           "isShort": false
         },
         {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3610,
+          "views": 3611,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1454,
+          "views": 1457,
           "isShort": false
         }
       ],
@@ -11343,7 +11343,7 @@
       "author": "kaiserderklaus",
       "summary": "Create realistic US-style shared turn lanes with customizable road markings, turn arrows and asphalt overlays.",
       "version": "1.1.3",
-      "updated": "2026-10-18T08:29:27.000Z",
+      "updated": "2026-10-24T14:20:26.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/63b80d0a-b420-413b-969b-c7ee74b4e5ad/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 3
+    "online": 2
   },
   "patreonUrl": "",
   "warnings": []
