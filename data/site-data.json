@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:53:14.269Z",
+  "generatedAt": "2026-10-24T20:43:59.557Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3610,
+      "views": 3611,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3125,
+      "views": 3126,
       "isShort": false
     },
     {
@@ -204,7 +204,7 @@
           "published": "2026-02-03T13:00:17+00:00",
           "url": "https://www.youtube.com/watch?v=6kzIs_trhEE",
           "thumb": "https://i.ytimg.com/vi/6kzIs_trhEE/hqdefault.jpg",
-          "views": 1254,
+          "views": 1255,
           "isShort": false
         },
         {
@@ -213,7 +213,7 @@
           "published": "2026-02-07T17:00:41+00:00",
           "url": "https://www.youtube.com/watch?v=SbrICh86h1A",
           "thumb": "https://i.ytimg.com/vi/SbrICh86h1A/hqdefault.jpg",
-          "views": 1727,
+          "views": 1728,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3125,
+          "views": 3127,
           "isShort": false
         },
         {
@@ -11343,7 +11343,7 @@
       "author": "kaiserderklaus",
       "summary": "Create realistic US-style shared turn lanes with customizable road markings, turn arrows and asphalt overlays.",
       "version": "1.1.3",
-      "updated": "2026-10-24T14:20:26.000Z",
+      "updated": "2026-10-24T17:45:13.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/63b80d0a-b420-413b-969b-c7ee74b4e5ad/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 2
+    "online": 8
   },
   "patreonUrl": "",
   "warnings": []
