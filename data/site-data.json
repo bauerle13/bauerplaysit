@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:11:01.298Z",
+  "generatedAt": "2026-10-25T20:47:01.090Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3136,
+      "views": 3143,
       "isShort": false
     },
     {
@@ -66,7 +66,7 @@
       "published": "2026-06-04T10:43:37+00:00",
       "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
       "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
-      "views": 2126,
+      "views": 2125,
       "isShort": false
     },
     {
@@ -75,7 +75,7 @@
       "published": "2026-05-24T12:24:57+00:00",
       "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
       "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-      "views": 1057,
+      "views": 1056,
       "isShort": false
     },
     {
@@ -93,7 +93,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4125,
+      "views": 4123,
       "isShort": false
     },
     {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4125,
+          "views": 4123,
           "isShort": false
         },
         {
@@ -527,7 +527,7 @@
           "published": "2026-05-24T12:24:57+00:00",
           "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
           "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-          "views": 1057,
+          "views": 1056,
           "isShort": false
         },
         {
@@ -536,7 +536,7 @@
           "published": "2026-06-04T10:43:37+00:00",
           "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
           "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
-          "views": 2126,
+          "views": 2125,
           "isShort": false
         },
         {
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3136,
+          "views": 3143,
           "isShort": false
         },
         {
@@ -6414,8 +6414,8 @@
       "name": "MCP: Corporate America (Mega Pack)",
       "author": "kentherussell",
       "summary": "Adds a collection of real-world brands to your city, primarily focused on **offices**. There are 116 brands in this pack.",
-      "version": "1.0",
-      "updated": "2026-10-07T21:37:27.000Z",
+      "version": "2.0",
+      "updated": "2026-10-25T16:39:33.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/85200e76-d921-462a-bb58-b03f962f62a8/content/cover.jpg",
       "tags": [
         "Prop",
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 4
+    "online": 9
   },
   "patreonUrl": "",
   "warnings": []
