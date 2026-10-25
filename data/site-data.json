@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:19:44.169Z",
+  "generatedAt": "2026-10-25T16:11:01.298Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1457,
+      "views": 1459,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3135,
+      "views": 3136,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-07-22T14:49:03+00:00",
       "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
       "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-      "views": 856,
+      "views": 857,
       "isShort": false
     },
     {
@@ -48,7 +48,7 @@
       "published": "2026-06-27T12:00:16+00:00",
       "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
       "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-      "views": 1316,
+      "views": 1317,
       "isShort": false
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-06-15T12:52:13+00:00",
       "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
       "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-      "views": 2614,
+      "views": 2615,
       "isShort": false
     },
     {
@@ -75,7 +75,7 @@
       "published": "2026-05-24T12:24:57+00:00",
       "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
       "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-      "views": 1056,
+      "views": 1057,
       "isShort": false
     },
     {
@@ -509,7 +509,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4124,
+          "views": 4125,
           "isShort": false
         },
         {
@@ -527,7 +527,7 @@
           "published": "2026-05-24T12:24:57+00:00",
           "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
           "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-          "views": 1056,
+          "views": 1057,
           "isShort": false
         },
         {
@@ -545,7 +545,7 @@
           "published": "2026-06-15T12:52:13+00:00",
           "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
           "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-          "views": 2614,
+          "views": 2615,
           "isShort": false
         },
         {
@@ -554,7 +554,7 @@
           "published": "2026-06-27T12:00:16+00:00",
           "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
           "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-          "views": 1316,
+          "views": 1317,
           "isShort": false
         },
         {
@@ -563,7 +563,7 @@
           "published": "2026-07-22T14:49:03+00:00",
           "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
           "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-          "views": 856,
+          "views": 857,
           "isShort": false
         }
       ],
@@ -848,7 +848,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3134,
+          "views": 3136,
           "isShort": false
         },
         {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1456,
+          "views": 1459,
           "isShort": false
         }
       ],
@@ -4625,8 +4625,8 @@
       "name": "ExtraLib",
       "author": "Triton Supreme",
       "summary": "Extra Lib is a necessary dependency module needed to operate all EXTRA modifications.",
-      "version": "1.4.11",
-      "updated": "2026-08-24T21:25:48.000Z",
+      "version": "1.4.12",
+      "updated": "2026-10-25T13:23:24.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/b6d5e23c-388f-4c5a-b493-9f7742677331/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -5425,8 +5425,8 @@
       "name": "Hathaway Media Group Publishing Plant",
       "author": "고등어밥상",
       "summary": "Hathaway Media Group Publishing Plant",
-      "version": "",
-      "updated": "2026-09-03T15:46:50.000Z",
+      "version": "1.10",
+      "updated": "2026-10-25T14:52:52.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/4ddb4f56-9968-4ad4-b5b1-ad9a08626d00/content/cover.jpg",
       "tags": [
         "Building",
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 7
+    "online": 4
   },
   "patreonUrl": "",
   "warnings": []
