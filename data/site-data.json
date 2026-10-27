@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:05:07.389Z",
+  "generatedAt": "2026-10-27T17:58:08.917Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1473,
+      "views": 1477,
       "isShort": false
     },
     {
@@ -866,7 +866,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1473,
+          "views": 1477,
           "isShort": false
         }
       ],
@@ -2255,8 +2255,8 @@
       "name": "Aldi Supermarket 2020'",
       "author": "j0sp0r",
       "summary": "An ultra-modern Aldi Nord supermarket featuring a light-flooded glass facade, a sustainable energy concept, and a detailed parking lot including fast-charging stations",
-      "version": "1.1",
-      "updated": "2026-10-23T09:16:49.000Z",
+      "version": "1.2",
+      "updated": "2026-10-27T12:23:11.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/5778f856-5db9-4ca6-80d3-86e5b57752db/content/cover.jpg",
       "tags": [
         "Building",
@@ -3095,7 +3095,7 @@
       "author": "cxhe",
       "summary": "Create custom bridges from available roads and tracks, with 3D previews and supported double-deck styles.",
       "version": "26.10.13",
-      "updated": "2026-10-13T15:26:15.000Z",
+      "updated": "2026-10-27T16:46:34.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/8f410882-e031-4dca-b569-2e049c9b08d4/content/cover.jpg",
       "tags": [
         "Code Mod",
@@ -6210,8 +6210,8 @@
       "name": "LSD Layered Selection Display",
       "author": "0belix",
       "summary": "Easily select things that you otherwise could not select or easily select.",
-      "version": "1.0.0",
-      "updated": "2026-09-18T09:37:25.000Z",
+      "version": "1.0.1",
+      "updated": "2026-10-27T14:40:07.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/964f4d83-2067-4728-a127-8464cf7e689f/content/cover.jpg",
       "tags": [
         "Code Mod"
