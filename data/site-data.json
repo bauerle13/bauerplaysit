@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:54:30.519Z",
+  "generatedAt": "2026-10-29T22:42:14.192Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -3296,8 +3296,8 @@
       "name": "Change Company",
       "author": "rcav8tr",
       "summary": "Mod with 6 main features: Change Company, Production Balance, Lock Company, Company Workplaces, Company Storage, and Company Vehicles.",
-      "version": "4.1.2",
-      "updated": "2026-09-15T16:20:35.000Z",
+      "version": "4.2.0",
+      "updated": "2026-10-29T17:33:21.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/41510076-765c-4482-81e8-5edc0a2fba0a/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11881,8 +11881,13 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 3
+    "online": 7
   },
   "patreonUrl": "",
-  "warnings": []
+  "warnings": [
+    "YouTube channel: 500 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
+    "Playlist \"Seabury\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
+    "Playlist \"Saint Laurens Island\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
+    "Playlist \"Oakhaven\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
+  ]
 }
