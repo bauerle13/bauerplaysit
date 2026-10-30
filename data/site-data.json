@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:47:41.280Z",
+  "generatedAt": "2026-10-30T22:14:55.872Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -93,7 +93,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4128,
+      "views": 4129,
       "isShort": false
     },
     {
@@ -3296,8 +3296,8 @@
       "name": "Change Company",
       "author": "rcav8tr",
       "summary": "Mod with 6 main features: Change Company, Production Balance, Lock Company, Company Workplaces, Company Storage, and Company Vehicles.",
-      "version": "4.2.0",
-      "updated": "2026-10-29T17:33:21.000Z",
+      "version": "4.2.1",
+      "updated": "2026-10-30T21:31:42.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/41510076-765c-4482-81e8-5edc0a2fba0a/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11881,7 +11881,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 3
+    "online": 6
   },
   "patreonUrl": "",
   "warnings": []
