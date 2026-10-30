@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:42:14.192Z",
+  "generatedAt": "2026-10-30T05:41:38.679Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -3095,7 +3095,7 @@
       "author": "cxhe",
       "summary": "Create custom bridges from available roads and tracks, with 3D previews and supported double-deck styles.",
       "version": "26.10.13",
-      "updated": "2026-10-27T16:46:34.000Z",
+      "updated": "2026-10-30T01:39:18.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/8f410882-e031-4dca-b569-2e049c9b08d4/content/cover.jpg",
       "tags": [
         "Code Mod",
@@ -11881,11 +11881,11 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 7
+    "online": 4
   },
   "patreonUrl": "",
   "warnings": [
-    "YouTube channel: 500 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
+    "YouTube channel: 404 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
     "Playlist \"Seabury\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
     "Playlist \"Saint Laurens Island\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
     "Playlist \"Oakhaven\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
