@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:19:06.316Z",
+  "generatedAt": "2026-10-31T21:29:25.443Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1493,
+      "views": 1494,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3618,
+      "views": 3620,
       "isShort": false
     },
     {
@@ -857,7 +857,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3618,
+          "views": 3621,
           "isShort": false
         },
         {
@@ -866,7 +866,16 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1493,
+          "views": 1494,
+          "isShort": false
+        },
+        {
+          "id": "uYTee-O6IPo",
+          "title": "My Biggest MASS EXPANSION Ever | Cities Skylines 2",
+          "published": "2026-10-31T02:41:50+00:00",
+          "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
+          "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
+          "views": null,
           "isShort": false
         }
       ],
