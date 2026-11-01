@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:14:59.924Z",
+  "generatedAt": "2026-11-01T21:58:28.087Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -7,12 +7,21 @@
   },
   "videos": [
     {
+      "id": "uYTee-O6IPo",
+      "title": "My Biggest MASS EXPANSION Ever | Cities Skylines 2",
+      "published": "2026-11-01T14:00:24+00:00",
+      "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
+      "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
+      "views": 192,
+      "isShort": false
+    },
+    {
       "id": "VUC-SAqBmXw",
       "title": "Highway Interchanges for DAYS | Cities Skylines 2",
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1494,
+      "views": 1497,
       "isShort": false
     },
     {
@@ -21,7 +30,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3621,
+      "views": 3627,
       "isShort": false
     },
     {
@@ -30,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3176,
+      "views": 3181,
       "isShort": false
     },
     {
@@ -48,7 +57,7 @@
       "published": "2026-06-27T12:00:16+00:00",
       "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
       "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-      "views": 1318,
+      "views": 1319,
       "isShort": false
     },
     {
@@ -57,7 +66,7 @@
       "published": "2026-06-15T12:52:13+00:00",
       "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
       "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-      "views": 2624,
+      "views": 2625,
       "isShort": false
     },
     {
@@ -66,7 +75,7 @@
       "published": "2026-06-04T10:43:37+00:00",
       "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
       "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
-      "views": 2126,
+      "views": 2127,
       "isShort": false
     },
     {
@@ -75,7 +84,7 @@
       "published": "2026-05-24T12:24:57+00:00",
       "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
       "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-      "views": 1056,
+      "views": 1057,
       "isShort": false
     },
     {
@@ -84,7 +93,7 @@
       "published": "2026-05-16T18:00:36+00:00",
       "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
       "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-      "views": 2367,
+      "views": 2369,
       "isShort": false
     },
     {
@@ -93,7 +102,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4132,
+      "views": 4134,
       "isShort": false
     },
     {
@@ -120,7 +129,7 @@
       "published": "2026-04-04T17:04:41+00:00",
       "url": "https://www.youtube.com/watch?v=BA4CcpBo0JA",
       "thumb": "https://i.ytimg.com/vi/BA4CcpBo0JA/hqdefault.jpg",
-      "views": 1546,
+      "views": 1548,
       "isShort": false
     },
     {
@@ -129,21 +138,11 @@
       "published": "2026-03-28T16:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
       "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
-      "views": 2094,
+      "views": 2096,
       "isShort": false
     }
   ],
-  "shorts": [
-    {
-      "id": "kk3Ac0agcvo",
-      "title": "🚨 ARSONIST ON THE LOOSE in Seabury! | Cities: Skylines 2",
-      "published": "2026-03-27T20:00:00+00:00",
-      "url": "https://www.youtube.com/shorts/kk3Ac0agcvo",
-      "thumb": "https://i.ytimg.com/vi/kk3Ac0agcvo/hqdefault.jpg",
-      "views": 149,
-      "isShort": true
-    }
-  ],
+  "shorts": [],
   "series": [
     {
       "slug": "seabury",
@@ -222,7 +221,7 @@
           "published": "2026-02-13T15:23:38+00:00",
           "url": "https://www.youtube.com/watch?v=4s6OYCCL3V0",
           "thumb": "https://i.ytimg.com/vi/4s6OYCCL3V0/hqdefault.jpg",
-          "views": 3069,
+          "views": 3072,
           "isShort": false
         },
         {
@@ -509,7 +508,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4132,
+          "views": 4134,
           "isShort": false
         },
         {
@@ -518,7 +517,7 @@
           "published": "2026-05-16T18:00:36+00:00",
           "url": "https://www.youtube.com/watch?v=jy3wAV8K6Xg",
           "thumb": "https://i.ytimg.com/vi/jy3wAV8K6Xg/hqdefault.jpg",
-          "views": 2367,
+          "views": 2369,
           "isShort": false
         },
         {
@@ -527,7 +526,7 @@
           "published": "2026-05-24T12:24:57+00:00",
           "url": "https://www.youtube.com/watch?v=u6eb3wWjbBc",
           "thumb": "https://i.ytimg.com/vi/u6eb3wWjbBc/hqdefault.jpg",
-          "views": 1056,
+          "views": 1057,
           "isShort": false
         },
         {
@@ -536,7 +535,7 @@
           "published": "2026-06-04T10:43:37+00:00",
           "url": "https://www.youtube.com/watch?v=9urDh77WXQU",
           "thumb": "https://i.ytimg.com/vi/9urDh77WXQU/hqdefault.jpg",
-          "views": 2126,
+          "views": 2127,
           "isShort": false
         },
         {
@@ -545,7 +544,7 @@
           "published": "2026-06-15T12:52:13+00:00",
           "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
           "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-          "views": 2624,
+          "views": 2625,
           "isShort": false
         },
         {
@@ -554,7 +553,7 @@
           "published": "2026-06-27T12:00:16+00:00",
           "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
           "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-          "views": 1318,
+          "views": 1319,
           "isShort": false
         },
         {
@@ -848,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3176,
+          "views": 3181,
           "isShort": false
         },
         {
@@ -857,7 +856,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3621,
+          "views": 3627,
           "isShort": false
         },
         {
@@ -866,16 +865,16 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1494,
+          "views": 1497,
           "isShort": false
         },
         {
           "id": "uYTee-O6IPo",
           "title": "My Biggest MASS EXPANSION Ever | Cities Skylines 2",
-          "published": "2026-10-31T02:41:50+00:00",
+          "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": null,
+          "views": 192,
           "isShort": false
         }
       ],
@@ -11890,7 +11889,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 37,
-    "online": 6
+    "online": 10
   },
   "patreonUrl": "",
   "warnings": []
