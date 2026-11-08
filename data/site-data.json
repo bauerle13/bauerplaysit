@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:17:23.582Z",
+  "generatedAt": "2026-11-08T21:59:09.020Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1261,
+      "views": 1264,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3641,
+      "views": 3642,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3215,
+      "views": 3218,
       "isShort": false
     },
     {
@@ -102,7 +102,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4137,
+      "views": 4138,
       "isShort": false
     },
     {
@@ -508,7 +508,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4137,
+          "views": 4138,
           "isShort": false
         },
         {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3215,
+          "views": 3216,
           "isShort": false
         },
         {
@@ -856,7 +856,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3641,
+          "views": 3642,
           "isShort": false
         },
         {
@@ -6070,7 +6070,7 @@
       "author": "Reikenan",
       "summary": "Collection of undergrowth assets in a darker tone for detailing forests and unkempt areas.",
       "version": "",
-      "updated": "2026-11-03T19:46:10.000Z",
+      "updated": "2026-11-08T17:48:39.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/7aa87504-2f66-4329-8c2d-37b20b6035cf/content/cover.jpg",
       "tags": [
         "Tree",
@@ -6092,7 +6092,7 @@
       "author": "Reikenan",
       "summary": "Collection of undergrowth assets in a lighter tone for detailing forests and unkempt areas.",
       "version": "",
-      "updated": "2026-11-03T19:45:51.000Z",
+      "updated": "2026-11-08T17:49:07.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/50e5d32c-584d-4f87-99c8-b7f04950fe94/content/cover.jpg",
       "tags": [
         "Tree",
@@ -6658,7 +6658,7 @@
       "author": "Reikenan",
       "summary": "A set of low-density row homes with a modern brick aesthetic. Three-unit standard lots or four-unit lots with a rear access parking. Buildings are from Ontario, Canada. ",
       "version": "",
-      "updated": "2026-11-08T03:26:12.000Z",
+      "updated": "2026-11-08T17:41:46.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/a3592031-fcfa-426e-8b58-14a270114ec8/content/cover.jpg",
       "tags": [
         "Building",
