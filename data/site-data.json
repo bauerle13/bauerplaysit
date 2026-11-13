@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:33:48.225Z",
+  "generatedAt": "2026-11-13T06:36:02.630Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -8742,8 +8742,8 @@
       "name": "Realistic Parking",
       "author": "DaancingBanana",
       "summary": "Alters parking behavior to enhance traffic efficiency and realism",
-      "version": "1.2.6",
-      "updated": "2026-06-22T12:32:47.000Z",
+      "version": "1.2.7",
+      "updated": "2026-11-13T02:41:18.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/713bc350-4b29-4a87-99bc-7a4f3ad60aea/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11889,8 +11889,13 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 6
+    "online": 5
   },
   "patreonUrl": "",
-  "warnings": []
+  "warnings": [
+    "YouTube channel: 404 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
+    "Playlist \"Seabury\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
+    "Playlist \"Saint Laurens Island\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
+    "Playlist \"Oakhaven\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
+  ]
 }
