@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:13:52.316Z",
+  "generatedAt": "2026-11-14T13:29:10.006Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1284,
+      "views": 1288,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1549,
+      "views": 1550,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3238,
+      "views": 3239,
       "isShort": false
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-06-27T12:00:16+00:00",
       "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
       "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-      "views": 1319,
+      "views": 1321,
       "isShort": false
     },
     {
@@ -66,7 +66,7 @@
       "published": "2026-06-15T12:52:13+00:00",
       "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
       "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-      "views": 2629,
+      "views": 2631,
       "isShort": false
     },
     {
@@ -158,7 +158,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6573,
+          "views": 6576,
           "isShort": false
         },
         {
@@ -167,7 +167,7 @@
           "published": "2026-01-20T11:30:31+00:00",
           "url": "https://www.youtube.com/watch?v=MQogFK3bWHs",
           "thumb": "https://i.ytimg.com/vi/MQogFK3bWHs/hqdefault.jpg",
-          "views": 2234,
+          "views": 2236,
           "isShort": false
         },
         {
@@ -176,7 +176,7 @@
           "published": "2026-01-23T12:05:50+00:00",
           "url": "https://www.youtube.com/watch?v=aoQX8Y1Ahuw",
           "thumb": "https://i.ytimg.com/vi/aoQX8Y1Ahuw/hqdefault.jpg",
-          "views": 1003,
+          "views": 1004,
           "isShort": false
         },
         {
@@ -185,7 +185,7 @@
           "published": "2026-01-25T23:27:48+00:00",
           "url": "https://www.youtube.com/watch?v=zXR2lEYAKDc",
           "thumb": "https://i.ytimg.com/vi/zXR2lEYAKDc/hqdefault.jpg",
-          "views": 1523,
+          "views": 1524,
           "isShort": false
         },
         {
@@ -544,7 +544,7 @@
           "published": "2026-06-15T12:52:13+00:00",
           "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
           "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-          "views": 2629,
+          "views": 2631,
           "isShort": false
         },
         {
@@ -553,7 +553,7 @@
           "published": "2026-06-27T12:00:16+00:00",
           "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
           "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-          "views": 1319,
+          "views": 1321,
           "isShort": false
         },
         {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3238,
+          "views": 3239,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1548,
+          "views": 1550,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1284,
+          "views": 1288,
           "isShort": false
         }
       ],
@@ -11892,10 +11892,5 @@
     "online": 3
   },
   "patreonUrl": "",
-  "warnings": [
-    "YouTube channel: 404 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
-    "Playlist \"Seabury\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
-    "Playlist \"Saint Laurens Island\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
-    "Playlist \"Oakhaven\": 404 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
-  ]
+  "warnings": []
 }
