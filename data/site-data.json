@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T07:49:48.163Z",
+  "generatedAt": "2026-11-17T20:51:11.707Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1295,
+      "views": 1298,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1559,
+      "views": 1560,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3251,
+      "views": 3254,
       "isShort": false
     },
     {
@@ -48,7 +48,7 @@
       "published": "2026-07-22T14:49:03+00:00",
       "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
       "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-      "views": 869,
+      "views": 870,
       "isShort": false
     },
     {
@@ -57,7 +57,7 @@
       "published": "2026-06-27T12:00:16+00:00",
       "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
       "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-      "views": 1322,
+      "views": 1323,
       "isShort": false
     },
     {
@@ -66,7 +66,7 @@
       "published": "2026-06-15T12:52:13+00:00",
       "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
       "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-      "views": 2635,
+      "views": 2636,
       "isShort": false
     },
     {
@@ -102,7 +102,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4144,
+      "views": 4146,
       "isShort": false
     },
     {
@@ -138,7 +138,7 @@
       "published": "2026-03-28T16:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
       "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
-      "views": 2103,
+      "views": 2104,
       "isShort": false
     }
   ],
@@ -508,7 +508,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4144,
+          "views": 4147,
           "isShort": false
         },
         {
@@ -544,7 +544,7 @@
           "published": "2026-06-15T12:52:13+00:00",
           "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
           "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-          "views": 2635,
+          "views": 2636,
           "isShort": false
         },
         {
@@ -553,7 +553,7 @@
           "published": "2026-06-27T12:00:16+00:00",
           "url": "https://www.youtube.com/watch?v=rLHndeSpsd8",
           "thumb": "https://i.ytimg.com/vi/rLHndeSpsd8/hqdefault.jpg",
-          "views": 1322,
+          "views": 1323,
           "isShort": false
         },
         {
@@ -562,7 +562,7 @@
           "published": "2026-07-22T14:49:03+00:00",
           "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
           "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-          "views": 869,
+          "views": 870,
           "isShort": false
         }
       ],
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3251,
+          "views": 3254,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1559,
+          "views": 1560,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1297,
+          "views": 1298,
           "isShort": false
         }
       ],
@@ -2136,8 +2136,8 @@
       "name": "Advanced Building Control",
       "author": "StarQ",
       "summary": "Modify buildings to your heart's content (within limits).",
-      "version": "2.3.0",
-      "updated": "2026-11-17T04:14:26.000Z",
+      "version": "2.3.1",
+      "updated": "2026-11-17T11:04:26.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1726203c-e8ac-491d-8f9c-4ec7441bcf21/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -3102,8 +3102,8 @@
       "name": "Bridge Builder",
       "author": "cxhe",
       "summary": "Create custom bridges from available roads and tracks, with 3D previews and supported double-deck styles.",
-      "version": "26.11.16",
-      "updated": "2026-11-15T22:30:33.000Z",
+      "version": "26.11.18",
+      "updated": "2026-11-17T17:43:07.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/8f410882-e031-4dca-b569-2e049c9b08d4/content/cover.jpg",
       "tags": [
         "Code Mod",
@@ -8744,7 +8744,7 @@
       "author": "DaancingBanana",
       "summary": "Alters parking behavior to enhance traffic efficiency and realism",
       "version": "1.2.7",
-      "updated": "2026-11-13T02:41:18.000Z",
+      "updated": "2026-11-17T16:29:34.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/713bc350-4b29-4a87-99bc-7a4f3ad60aea/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -10464,7 +10464,7 @@
       "author": "gagaXm",
       "summary": "Pack of grass surfaces",
       "version": "0.3",
-      "updated": "2026-09-07T15:38:57.000Z",
+      "updated": "2026-11-17T19:02:19.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1a77abe7-21e4-4752-b407-898b43d1e94e/content/cover.jpg",
       "tags": [
         "Prefab",
@@ -10485,7 +10485,7 @@
       "author": "gagaXm",
       "summary": "Pack of Ground Textures",
       "version": "0.5",
-      "updated": "2026-09-07T15:25:23.000Z",
+      "updated": "2026-11-17T19:05:55.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/8ab33a4a-1cba-4e8b-9962-c8685fc8621b/content/cover.jpg",
       "tags": [
         "Prefab",
@@ -10505,7 +10505,7 @@
       "author": "gagaXm",
       "summary": "Pack of rock surfaces",
       "version": "0.4",
-      "updated": "2026-09-07T14:43:18.000Z",
+      "updated": "2026-11-17T19:05:35.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/120cb7c1-52d1-4552-82c7-9fae1e021ce5/content/cover.jpg",
       "tags": [
         "Prefab",
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 2
+    "online": 8
   },
   "patreonUrl": "",
   "warnings": []
