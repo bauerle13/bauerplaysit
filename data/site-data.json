@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:57:51.636Z",
+  "generatedAt": "2026-11-17T07:49:48.163Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1294,
+      "views": 1295,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3643,
+      "views": 3645,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3250,
+      "views": 3251,
       "isShort": false
     },
     {
@@ -275,7 +275,7 @@
           "published": "2026-03-08T16:00:58+00:00",
           "url": "https://www.youtube.com/watch?v=evZM433P7YA",
           "thumb": "https://i.ytimg.com/vi/evZM433P7YA/hqdefault.jpg",
-          "views": 1260,
+          "views": 1262,
           "isShort": false
         },
         {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3250,
+          "views": 3251,
           "isShort": false
         },
         {
@@ -856,7 +856,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3643,
+          "views": 3645,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1294,
+          "views": 1297,
           "isShort": false
         }
       ],
@@ -2136,8 +2136,8 @@
       "name": "Advanced Building Control",
       "author": "StarQ",
       "summary": "Modify buildings to your heart's content (within limits).",
-      "version": "2.2.5",
-      "updated": "2026-09-16T10:22:27.000Z",
+      "version": "2.3.0",
+      "updated": "2026-11-17T04:14:26.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1726203c-e8ac-491d-8f9c-4ec7441bcf21/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -3235,8 +3235,8 @@
       "name": "BugsyG Plant Pack",
       "author": "Bugsbugme",
       "summary": "More vanilla plant and tree variations",
-      "version": "1.4.5",
-      "updated": "2026-10-20T23:28:34.000Z",
+      "version": "1.4.6",
+      "updated": "2026-11-17T01:41:26.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/5a826776-9037-46e5-be6f-86967dc01f9b/content/cover.jpg",
       "tags": [
         "Prop",
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 7
+    "online": 2
   },
   "patreonUrl": "",
   "warnings": []
