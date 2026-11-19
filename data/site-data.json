@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:17:53.217Z",
+  "generatedAt": "2026-11-19T20:29:55.839Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1298,
+      "views": 1299,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3647,
+      "views": 3648,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3258,
+      "views": 3259,
       "isShort": false
     },
     {
@@ -120,7 +120,7 @@
       "published": "2026-04-16T16:00:04+00:00",
       "url": "https://www.youtube.com/watch?v=0Rx63IuM_8w",
       "thumb": "https://i.ytimg.com/vi/0Rx63IuM_8w/hqdefault.jpg",
-      "views": 823,
+      "views": 822,
       "isShort": false
     },
     {
@@ -138,7 +138,7 @@
       "published": "2026-03-28T16:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
       "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
-      "views": 2105,
+      "views": 2104,
       "isShort": false
     }
   ],
@@ -856,7 +856,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3647,
+          "views": 3648,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1564,
+          "views": 1566,
           "isShort": false
         },
         {
@@ -2136,8 +2136,8 @@
       "name": "Advanced Building Control",
       "author": "StarQ",
       "summary": "Modify buildings to your heart's content (within limits).",
-      "version": "2.3.1",
-      "updated": "2026-11-17T11:04:26.000Z",
+      "version": "2.3.2",
+      "updated": "2026-11-19T10:59:42.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1726203c-e8ac-491d-8f9c-4ec7441bcf21/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -3102,8 +3102,8 @@
       "name": "Bridge Builder",
       "author": "cxhe",
       "summary": "Create custom bridges from available roads and tracks, with 3D previews and supported double-deck styles.",
-      "version": "26.11.18",
-      "updated": "2026-11-17T17:43:07.000Z",
+      "version": "26.11.19",
+      "updated": "2026-11-19T15:08:24.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/8f410882-e031-4dca-b569-2e049c9b08d4/content/cover.jpg",
       "tags": [
         "Code Mod",
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 3
+    "online": 5
   },
   "patreonUrl": "",
   "warnings": []
