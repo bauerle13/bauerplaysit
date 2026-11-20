@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:06:29.716Z",
+  "generatedAt": "2026-11-20T20:07:27.889Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1299,
+      "views": 1301,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1568,
+      "views": 1572,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3260,
+      "views": 3263,
       "isShort": false
     },
     {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3260,
+          "views": 3263,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1568,
+          "views": 1572,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1299,
+          "views": 1301,
           "isShort": false
         }
       ],
@@ -3102,8 +3102,8 @@
       "name": "Bridge Builder",
       "author": "cxhe",
       "summary": "Create custom bridges from available roads and tracks, with 3D previews and supported double-deck styles.",
-      "version": "26.11.19",
-      "updated": "2026-11-19T15:08:24.000Z",
+      "version": "26.11.20",
+      "updated": "2026-11-20T15:58:46.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/8f410882-e031-4dca-b569-2e049c9b08d4/content/cover.jpg",
       "tags": [
         "Code Mod",
@@ -7837,7 +7837,7 @@
       "author": "Bruceyboy24804",
       "summary": "Lets you individually edit nodes",
       "version": "1.5.2",
-      "updated": "2026-09-16T08:32:39.000Z",
+      "updated": "2026-11-20T10:49:11.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/13ca264d-18d6-4755-aa64-54483ae08ee1/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 3
+    "online": 6
   },
   "patreonUrl": "",
   "warnings": []
