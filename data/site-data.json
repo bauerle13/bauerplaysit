@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:07:27.889Z",
+  "generatedAt": "2026-11-21T06:59:23.501Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1572,
+      "views": 1577,
       "isShort": false
     },
     {
@@ -102,7 +102,7 @@
       "published": "2026-05-02T16:01:17+00:00",
       "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
       "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-      "views": 4147,
+      "views": 4148,
       "isShort": false
     },
     {
@@ -508,7 +508,7 @@
           "published": "2026-05-02T16:01:17+00:00",
           "url": "https://www.youtube.com/watch?v=mHI5kyu2K18",
           "thumb": "https://i.ytimg.com/vi/mHI5kyu2K18/hqdefault.jpg",
-          "views": 4147,
+          "views": 4148,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1572,
+          "views": 1577,
           "isShort": false
         },
         {
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 6
+    "online": 7
   },
   "patreonUrl": "",
   "warnings": []
