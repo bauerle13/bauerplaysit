@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:09:22.317Z",
+  "generatedAt": "2026-11-22T06:39:31.697Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1301,
+      "views": 1302,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3265,
+      "views": 3267,
       "isShort": false
     },
     {
@@ -48,7 +48,7 @@
       "published": "2026-07-22T14:49:03+00:00",
       "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
       "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-      "views": 870,
+      "views": 873,
       "isShort": false
     },
     {
@@ -66,7 +66,7 @@
       "published": "2026-06-15T12:52:13+00:00",
       "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
       "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-      "views": 2636,
+      "views": 2637,
       "isShort": false
     },
     {
@@ -129,7 +129,7 @@
       "published": "2026-04-04T17:04:41+00:00",
       "url": "https://www.youtube.com/watch?v=BA4CcpBo0JA",
       "thumb": "https://i.ytimg.com/vi/BA4CcpBo0JA/hqdefault.jpg",
-      "views": 1552,
+      "views": 1553,
       "isShort": false
     },
     {
@@ -544,7 +544,7 @@
           "published": "2026-06-15T12:52:13+00:00",
           "url": "https://www.youtube.com/watch?v=hFh4VtVJ8gg",
           "thumb": "https://i.ytimg.com/vi/hFh4VtVJ8gg/hqdefault.jpg",
-          "views": 2636,
+          "views": 2637,
           "isShort": false
         },
         {
@@ -562,7 +562,7 @@
           "published": "2026-07-22T14:49:03+00:00",
           "url": "https://www.youtube.com/watch?v=LxHd33M5Uds",
           "thumb": "https://i.ytimg.com/vi/LxHd33M5Uds/hqdefault.jpg",
-          "views": 870,
+          "views": 873,
           "isShort": false
         }
       ],
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3265,
+          "views": 3267,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1301,
+          "views": 1302,
           "isShort": false
         }
       ],
@@ -6219,8 +6219,8 @@
       "name": "LSD Layered Selection Display",
       "author": "0belix",
       "summary": "Easily select things that you otherwise could not select or easily select.",
-      "version": "1.0.1",
-      "updated": "2026-10-27T14:40:07.000Z",
+      "version": "1.1.1",
+      "updated": "2026-11-21T21:49:25.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/964f4d83-2067-4728-a127-8464cf7e689f/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 7
+    "online": 3
   },
   "patreonUrl": "",
   "warnings": []
