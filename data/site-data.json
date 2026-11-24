@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:48:15.027Z",
+  "generatedAt": "2026-11-24T22:21:19.976Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1309,
+      "views": 1312,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1585,
+      "views": 1592,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3655,
+      "views": 3657,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3302,
+      "views": 3313,
       "isShort": false
     },
     {
@@ -111,7 +111,7 @@
       "published": "2026-04-24T17:01:03+00:00",
       "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
       "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
-      "views": 2730,
+      "views": 2731,
       "isShort": false
     },
     {
@@ -158,7 +158,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6584,
+          "views": 6586,
           "isShort": false
         },
         {
@@ -167,7 +167,7 @@
           "published": "2026-01-20T11:30:31+00:00",
           "url": "https://www.youtube.com/watch?v=MQogFK3bWHs",
           "thumb": "https://i.ytimg.com/vi/MQogFK3bWHs/hqdefault.jpg",
-          "views": 2237,
+          "views": 2238,
           "isShort": false
         },
         {
@@ -176,7 +176,7 @@
           "published": "2026-01-23T12:05:50+00:00",
           "url": "https://www.youtube.com/watch?v=aoQX8Y1Ahuw",
           "thumb": "https://i.ytimg.com/vi/aoQX8Y1Ahuw/hqdefault.jpg",
-          "views": 1004,
+          "views": 1005,
           "isShort": false
         },
         {
@@ -185,7 +185,7 @@
           "published": "2026-01-25T23:27:48+00:00",
           "url": "https://www.youtube.com/watch?v=zXR2lEYAKDc",
           "thumb": "https://i.ytimg.com/vi/zXR2lEYAKDc/hqdefault.jpg",
-          "views": 1524,
+          "views": 1526,
           "isShort": false
         },
         {
@@ -230,7 +230,7 @@
           "published": "2026-02-19T17:01:31+00:00",
           "url": "https://www.youtube.com/watch?v=uLesYgSBQWU",
           "thumb": "https://i.ytimg.com/vi/uLesYgSBQWU/hqdefault.jpg",
-          "views": 1035,
+          "views": 1036,
           "isShort": false
         },
         {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3302,
+          "views": 3313,
           "isShort": false
         },
         {
@@ -856,7 +856,7 @@
           "published": "2026-10-02T16:55:02+00:00",
           "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
           "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-          "views": 3655,
+          "views": 3657,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1585,
+          "views": 1592,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1309,
+          "views": 1312,
           "isShort": false
         }
       ],
@@ -2136,8 +2136,8 @@
       "name": "Advanced Building Control",
       "author": "StarQ",
       "summary": "Modify buildings to your heart's content (within limits).",
-      "version": "2.3.2",
-      "updated": "2026-11-19T10:59:42.000Z",
+      "version": "2.3.4",
+      "updated": "2026-11-24T18:15:51.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1726203c-e8ac-491d-8f9c-4ec7441bcf21/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 4
+    "online": 5
   },
   "patreonUrl": "",
   "warnings": []
