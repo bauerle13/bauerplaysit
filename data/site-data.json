@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:24:17.840Z",
+  "generatedAt": "2026-11-25T21:37:49.094Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1594,
+      "views": 1598,
       "isShort": false
     },
     {
@@ -30,7 +30,7 @@
       "published": "2026-10-02T16:55:02+00:00",
       "url": "https://www.youtube.com/watch?v=NS19-jCvk2Q",
       "thumb": "https://i.ytimg.com/vi/NS19-jCvk2Q/hqdefault.jpg",
-      "views": 3659,
+      "views": 3660,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3326,
+      "views": 3329,
       "isShort": false
     },
     {
@@ -158,7 +158,7 @@
           "published": "2026-01-16T13:40:13+00:00",
           "url": "https://www.youtube.com/watch?v=DwI54bb9s6A",
           "thumb": "https://i.ytimg.com/vi/DwI54bb9s6A/hqdefault.jpg",
-          "views": 6587,
+          "views": 6588,
           "isShort": false
         },
         {
@@ -275,7 +275,7 @@
           "published": "2026-03-08T16:00:58+00:00",
           "url": "https://www.youtube.com/watch?v=evZM433P7YA",
           "thumb": "https://i.ytimg.com/vi/evZM433P7YA/hqdefault.jpg",
-          "views": 1262,
+          "views": 1263,
           "isShort": false
         },
         {
@@ -284,7 +284,7 @@
           "published": "2026-03-12T16:01:34+00:00",
           "url": "https://www.youtube.com/watch?v=xyAnW30H7r4",
           "thumb": "https://i.ytimg.com/vi/xyAnW30H7r4/hqdefault.jpg",
-          "views": 1835,
+          "views": 1836,
           "isShort": false
         }
       ],
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3326,
+          "views": 3328,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1594,
+          "views": 1598,
           "isShort": false
         },
         {
@@ -2136,8 +2136,8 @@
       "name": "Advanced Building Control",
       "author": "StarQ",
       "summary": "Modify buildings to your heart's content (within limits).",
-      "version": "2.3.4",
-      "updated": "2026-11-24T18:15:51.000Z",
+      "version": "2.3.5",
+      "updated": "2026-11-25T20:08:27.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/1726203c-e8ac-491d-8f9c-4ec7441bcf21/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -10940,8 +10940,8 @@
       "name": "Tourism Overhaul",
       "author": "Meapy",
       "summary": "Fixes the tourism simulation: tourists arrive by plane, ferry and cruise ship, spend money in your shops, hotels and motels get their own zones, and the numbers finally mean something.",
-      "version": "2.0.4",
-      "updated": "2026-10-06T20:05:06.000Z",
+      "version": "2.1.0",
+      "updated": "2026-11-25T10:22:25.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/f9676f05-8a4f-447e-a2fb-a90b1a722315/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 2
+    "online": 8
   },
   "patreonUrl": "",
   "warnings": []
