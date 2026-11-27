@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:26:35.542Z",
+  "generatedAt": "2026-11-27T08:19:25.277Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1606,
+      "views": 1609,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3337,
+      "views": 3341,
       "isShort": false
     },
     {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3337,
+          "views": 3341,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1606,
+          "views": 1609,
           "isShort": false
         },
         {
@@ -6236,8 +6236,8 @@
       "name": "Lumina",
       "author": "Nyyoko",
       "summary": "Fine tune post-processing settings.",
-      "version": "v3.7",
-      "updated": "2026-10-15T05:08:34.000Z",
+      "version": "v4.0",
+      "updated": "2026-11-27T07:58:43.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/3d6bd320-d4b7-42bc-ab94-516193cec2f3/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11890,7 +11890,7 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 7
+    "online": 6
   },
   "patreonUrl": "",
   "warnings": []
