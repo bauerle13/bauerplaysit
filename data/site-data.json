@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:19:25.277Z",
+  "generatedAt": "2026-11-27T21:11:05.412Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -12,7 +12,7 @@
       "published": "2026-11-01T14:00:24+00:00",
       "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
       "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-      "views": 1313,
+      "views": 1314,
       "isShort": false
     },
     {
@@ -21,7 +21,7 @@
       "published": "2026-10-17T15:00:23+00:00",
       "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
       "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-      "views": 1609,
+      "views": 1610,
       "isShort": false
     },
     {
@@ -39,7 +39,7 @@
       "published": "2026-09-26T15:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
       "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-      "views": 3341,
+      "views": 3347,
       "isShort": false
     },
     {
@@ -111,7 +111,7 @@
       "published": "2026-04-24T17:01:03+00:00",
       "url": "https://www.youtube.com/watch?v=cKP_F2UvMBA",
       "thumb": "https://i.ytimg.com/vi/cKP_F2UvMBA/hqdefault.jpg",
-      "views": 2731,
+      "views": 2733,
       "isShort": false
     },
     {
@@ -138,7 +138,7 @@
       "published": "2026-03-28T16:00:00+00:00",
       "url": "https://www.youtube.com/watch?v=Fo_VG6CBAGc",
       "thumb": "https://i.ytimg.com/vi/Fo_VG6CBAGc/hqdefault.jpg",
-      "views": 2107,
+      "views": 2108,
       "isShort": false
     }
   ],
@@ -203,7 +203,7 @@
           "published": "2026-02-03T13:00:17+00:00",
           "url": "https://www.youtube.com/watch?v=6kzIs_trhEE",
           "thumb": "https://i.ytimg.com/vi/6kzIs_trhEE/hqdefault.jpg",
-          "views": 1258,
+          "views": 1260,
           "isShort": false
         },
         {
@@ -847,7 +847,7 @@
           "published": "2026-09-26T15:00:13+00:00",
           "url": "https://www.youtube.com/watch?v=ieAkfs6jRdI",
           "thumb": "https://i.ytimg.com/vi/ieAkfs6jRdI/hqdefault.jpg",
-          "views": 3341,
+          "views": 3343,
           "isShort": false
         },
         {
@@ -865,7 +865,7 @@
           "published": "2026-10-17T15:00:23+00:00",
           "url": "https://www.youtube.com/watch?v=VUC-SAqBmXw",
           "thumb": "https://i.ytimg.com/vi/VUC-SAqBmXw/hqdefault.jpg",
-          "views": 1609,
+          "views": 1610,
           "isShort": false
         },
         {
@@ -874,7 +874,7 @@
           "published": "2026-11-01T14:00:24+00:00",
           "url": "https://www.youtube.com/watch?v=uYTee-O6IPo",
           "thumb": "https://i.ytimg.com/vi/uYTee-O6IPo/hqdefault.jpg",
-          "views": 1313,
+          "views": 1314,
           "isShort": false
         }
       ],
@@ -2237,8 +2237,8 @@
       "name": "Aldi Supermarket 2000'",
       "author": "j0sp0r",
       "summary": "A classic brick-style 2000' Aldi supermarket without a large parking lot. Perfect for dense urban areas or as a historic infill building.",
-      "version": "1.4",
-      "updated": "2026-11-16T14:26:23.000Z",
+      "version": "1.5",
+      "updated": "2026-11-27T11:49:41.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/f65d7f71-ca68-459a-9525-960db10f6f33/content/cover.jpg",
       "tags": [
         "Building",
@@ -2263,8 +2263,8 @@
       "name": "Aldi Supermarket 2020'",
       "author": "j0sp0r",
       "summary": "An ultra-modern Aldi Nord supermarket featuring a light-flooded glass facade, a sustainable energy concept, and a detailed parking lot including fast-charging stations",
-      "version": "1.3",
-      "updated": "2026-11-16T14:23:53.000Z",
+      "version": "1.4",
+      "updated": "2026-11-27T11:48:14.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/5778f856-5db9-4ca6-80d3-86e5b57752db/content/cover.jpg",
       "tags": [
         "Building",
@@ -5879,8 +5879,8 @@
       "name": "Kaufland Supermarket 2020'",
       "author": "j0sp0r",
       "summary": "An authentic Kaufland hypermarket featuring a spacious parking lot and a massive retail floor. This large-scale commercial asset acts as a regional hub, reliably supplying thousands of Cims with groce",
-      "version": "1.3",
-      "updated": "2026-10-27T08:53:27.000Z",
+      "version": "1.4",
+      "updated": "2026-11-27T10:55:52.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/cef386b2-5b4e-4dc4-b340-192d7b705526/content/cover.jpg",
       "tags": [
         "Building",
