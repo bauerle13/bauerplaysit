@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:11:05.412Z",
+  "generatedAt": "2026-11-28T07:40:15.936Z",
   "channel": {
     "id": "UCH7D_HFfO4HscLAqmBNbgDg",
     "title": "BauerPlaysIt",
@@ -6236,8 +6236,8 @@
       "name": "Lumina",
       "author": "Nyyoko",
       "summary": "Fine tune post-processing settings.",
-      "version": "v4.0",
-      "updated": "2026-11-27T07:58:43.000Z",
+      "version": "v4.1",
+      "updated": "2026-11-28T05:48:55.000Z",
       "thumb": "https://modscontent.paradox-interactive.com/cities_skylines_2/3d6bd320-d4b7-42bc-ab94-516193cec2f3/content/cover.jpg",
       "tags": [
         "Code Mod"
@@ -11890,8 +11890,13 @@
     "name": "BauerPlaysIt",
     "icon": "https://cdn.discordapp.com/icons/1457070938209390614/3d69f3a1382640bad9d4511f02807e03.png?size=128",
     "members": 36,
-    "online": 6
+    "online": 5
   },
   "patreonUrl": "",
-  "warnings": []
+  "warnings": [
+    "YouTube channel: 503 https://www.youtube.com/feeds/videos.xml?channel_id=UCH7D_HFfO4HscLAqmBNbgDg",
+    "Playlist \"Seabury\": 503 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_5nX0tw2dLaSRIJ2FS8iEeQ",
+    "Playlist \"Saint Laurens Island\": 503 https://www.youtube.com/feeds/videos.xml?playlist_id=PLnFx85HKDI_4lE2vF2S6m8z-SM1eTM0dO",
+    "Playlist \"Oakhaven\": 503 https://www.youtube.com/feeds/videos.xml?playlist_id=PLMvwpovHlhwM"
+  ]
 }
